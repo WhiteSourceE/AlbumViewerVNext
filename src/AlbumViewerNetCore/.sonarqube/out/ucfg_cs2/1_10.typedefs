@@ -1,0 +1,12 @@
+¡	
+'AlbumViewerAspNetCore.AccountController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobject•
+tAccountController(AlbumViewerBusiness.AccountRepository, AlbumViewerBusiness.Configuration.ApplicationConfiguration)œAlbumViewerAspNetCore.AccountController.AccountController(AlbumViewerBusiness.AccountRepository, AlbumViewerBusiness.Configuration.ApplicationConfiguration)x
+&Authenticate(AlbumViewerBusiness.User)NAlbumViewerAspNetCore.AccountController.Authenticate(AlbumViewerBusiness.User)<
+Logout()0AlbumViewerAspNetCore.AccountController.Logout()V
+IsAuthenthenticated()=AlbumViewerAspNetCore.AccountController.IsAuthenthenticated()F
+ExpireToken()5AlbumViewerAspNetCore.AccountController.ExpireToken()L
+IsTokenExpired()8AlbumViewerAspNetCore.AccountController.IsTokenExpired()V
+RemoveExpiredTokens()=AlbumViewerAspNetCore.AccountController.RemoveExpiredTokens()j
+Login(AlbumViewerBusiness.User)GAlbumViewerAspNetCore.AccountController.Login(AlbumViewerBusiness.User)N
+Configuration.get9AlbumViewerAspNetCore.AccountController.Configuration.getN
+Configuration.set9AlbumViewerAspNetCore.AccountController.Configuration.set

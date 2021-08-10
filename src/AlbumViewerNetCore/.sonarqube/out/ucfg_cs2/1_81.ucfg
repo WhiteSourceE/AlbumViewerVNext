@@ -1,0 +1,79 @@
+
+@AlbumViewerAspNetCore.AlbumViewerApiController.DeleteArtist(int)’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs÷  ÷(,"4*Ñ
+
+0’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csù ù(:«
+¨
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csù ù(+
+%0%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase¥
+¢
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csù ù(!,
+%1&System.Security.Claims.ClaimsPrincipal".Microsoft.AspNetCore.Http.HttpContext.User.get*-
++
+%0%Microsoft.AspNetCore.Http.HttpContext¶³
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csù ù(*)
+%2#System.Security.Principal.IIdentity"3System.Security.Claims.ClaimsPrincipal.Identity.get*.
+,
+%1&System.Security.Claims.ClaimsPrincipal2Identity.getŸœ
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csù ù(:
+
+%3bool"7System.Security.Principal.IIdentity.IsAuthenticated.get*+
+)
+%2#System.Security.Principal.IIdentity2IsAuthenticated.get*
+1
+2*
+1’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csú ú(Uæã
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csú ú(V(
+%4"AlbumViewerAspNetCore.ApiException""AlbumViewerAspNetCore.ApiExceptionø
+õ
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csú ú(&
+
+%5void"jAlbumViewerAspNetCore.ApiException.ApiException(string, int, Westwind.Utilities.ValidationErrorCollection)**
+(
+%4"AlbumViewerAspNetCore.ApiException*+)
+'You have to be logged in to modify data*2‘*
+""*
+3*¤
+2’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csü ü(3´
+±
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csü ü(#*
+%6$AlbumViewerBusiness.ArtistRepository"__id*h*f0
+.AlbumViewerAspNetCore.AlbumViewerApiController"2
+
+ArtistRepo$AlbumViewerBusiness.ArtistRepository²
+¯
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csü ü(4*
+%7$System.Threading.Tasks.Task<TResult>"6AlbumViewerBusiness.ArtistRepository.DeleteArtist(int)*,
+*
+%6$AlbumViewerBusiness.ArtistRepository*
+"""
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csü ü(5
+""*Å
+3’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csı	 ı(	"ª
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csı ı(	
+implicit return*Ô
+4’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs÷4 ÷(4´
+±
+’
+…D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs÷  ÷(,
+%8"__entrypoint*
+""*
+0:	
+idintB20
+.AlbumViewerAspNetCore.AlbumViewerApiController

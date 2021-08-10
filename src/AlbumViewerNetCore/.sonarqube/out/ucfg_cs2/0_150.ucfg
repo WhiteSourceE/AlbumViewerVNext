@@ -1,0 +1,272 @@
+
+XWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SaveAsync(TEntity)°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csï  ï()"0*≤
+0°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csó ó(Ä
+˝
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csó ó(
+
+%0bool""object.operator !=(object, object)*
+"
+object*
+
+entityTEntity*
+""*
+1
+2*π
+1°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csô ô((áÑ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csô ô()
+
+%1bool"[Westwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.OnBeforeSave(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+entityTEntity2OnBeforeSave(TEntity)*
+3
+4*÷
+3°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csö ö( "¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csö ö(!
+""*à
+4°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csú ú( ÷
+”
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csú ú( 
+
+%2bool"VWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.AutoValidate.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+5
+6*±
+5°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csú$ ú(4ˇ¸
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csú% ú(5
+
+%3bool"WWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Validate(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+entityTEntity2Validate(TEntity)*
+7
+6*÷
+7°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csù ù( "¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csù ù(!
+""*¯
+6°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csü †(7’
+“
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csü ü(#
+%4TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ÒÓ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csü ü(1G
+%5AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"?Microsoft.EntityFrameworkCore.DbContext.Entry<TEntity>(TEntity)*
+
+%4TContext*
+
+entityTEntity2Entry<TEntity>(TEntity)ƒ
+¡
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csü ü(1J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"__id*I
+G
+%5AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>ıÚ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs† †(/
+%6)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.get*L
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>2	State.getª
+∏
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs†# †(7
+%7"__id*
+""*
+8
+2*◊
+8°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs£ ±(÷”
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs£" £(0
+
+%8bool"EMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.IsKeySet.get*L
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>2IsKeySet.getÀ
+»
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs£ £(0
+existsbool"__id*
+
+
+%8bool*
+9
+10*Ñ
+9°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs≥ ¥(:’
+“
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs≥  ≥('
+%9TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ÙÒ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs≥  ≥(6H
+%10AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"@Microsoft.EntityFrameworkCore.DbContext.Update<TEntity>(TEntity)*
+
+%9TContext*
+
+entityTEntity2Update<TEntity>(TEntity)≈
+¬
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs≥ ≥(6J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"__id*J
+H
+%10AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>º
+π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¥& ¥(:
+%11"__id*
+""ˇ¸
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¥ ¥(:0
+%12)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.set*L
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+
+%112	State.set*
+2*π
+10°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs∏ π(7÷
+”
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs∏ ∏(
+%13TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ÔÏ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs∏ ∏(+H
+%14AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"=Microsoft.EntityFrameworkCore.DbContext.Add<TEntity>(TEntity)*
+
+%13TContext*
+
+entityTEntity2Add<TEntity>(TEntity)º
+π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csπ& π(7
+%15"__id*
+""ˇ¸
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csπ π(70
+%16)Microsoft.EntityFrameworkCore.EntityState"BMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry.State.set*L
+J
+entryAMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>*
+
+%152	State.set*
+2*Ù
+2°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¿ ¿(ƒ
+¡
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¿ ¿(
+resultint"__id*
+""*
+11*ÿ
+11°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs√ ƒ( ÷
+”
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs√ √(&
+%17TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ÉÄ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs√ √(9+
+%18$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*
+
+%17TContext*
+""24SaveChangesAsync(System.Threading.CancellationToken)ƒ
+¡
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs√ √(9
+resultint"__id*
+""*
+12
+13*◊
+12°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs≈ ≈( "¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs≈ ≈(!
+""*≤
+13°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs‘	 ‘(	*
+14
+15*˙
+14°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs…  (ìê
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs… …(.
+%19System.Exception"#System.Exception.GetBaseException()*
+
+exSystem.Exception2GetBaseException()ä
+á
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs… …(/
+%20void"fWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SetError(System.Exception, bool)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+%19System.Exception*
+"""¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs   (
+""*≤
+15°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÕ Õ(*
+16
+17*◊
+16°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csŒ Œ("¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csŒ Œ(
+""*∂
+17°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs– –(Å
+˛
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs– –(
+%21bool""object.operator !=(object, object)*
+"
+object*
+
+entityTEntity*
+""*
+18
+19*ª
+18°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs–" –(5ÜÉ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs–# –(6
+%22bool"ZWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.OnAfterSave(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+entityTEntity2OnAfterSave(TEntity)*
+20
+19*◊
+20°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs— —("¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs— —(
+""*◊
+19°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs” ”("¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs” ”(
+""*‰
+21°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs‘	 ‘(	"π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs‘ ‘(	
+implicit return:
+entityTEntityBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

@@ -1,0 +1,35 @@
+
+<AlbumViewerAspNetCore.AlbumViewerApiController.GetAlbum(int)ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csd! d()"2*†
+0ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csf f(*Ø
+¨
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csf f(")
+%0#AlbumViewerBusiness.AlbumRepository"__id*f*d0
+.AlbumViewerAspNetCore.AlbumViewerApiController"0
+	AlbumRepo#AlbumViewerBusiness.AlbumRepository∑¥
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csf f(+*
+%1$System.Threading.Tasks.Task<TResult>"0AlbumViewerBusiness.AlbumRepository.Load(object)*+
+)
+%0#AlbumViewerBusiness.AlbumRepository*
+""2Load(object)"õ
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csf f(,
+""*¡
+1ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csg	 g(	"®
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csg g(	
+implicit return*–
+2ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csd1 d(1≤
+Ø
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csd! d()
+%2"__entrypoint*
+""*
+0:	
+idintB20
+.AlbumViewerAspNetCore.AlbumViewerApiController

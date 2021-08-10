@@ -1,0 +1,20 @@
+
+bAlbumViewerBusiness.AlbumViewerContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs  (/"0*Ã
+0Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs ((§¤
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs ()
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)**(
+&AlbumViewerBusiness.AlbumViewerContext*7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder2;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*
+1*½
+1Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs	 (	"¦
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs (	
+implicit return:5
+builder*Microsoft.EntityFrameworkCore.ModelBuilderB*(
+&AlbumViewerBusiness.AlbumViewerContext

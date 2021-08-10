@@ -1,0 +1,32 @@
+
+IAlbumViewerBusiness.Configuration.TokenConfiguration.TokenConfiguration()“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs! !(#"0*Ü
+0“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs) )(¿
+¼
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs# #(G
+%0string"?AlbumViewerBusiness.Configuration.TokenConfiguration.Issuer.set*86
+4AlbumViewerBusiness.Configuration.TokenConfiguration*
+https://timetrakker.comÁ
+¾
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs$ $(I
+%1string"AAlbumViewerBusiness.Configuration.TokenConfiguration.Audience.set*86
+4AlbumViewerBusiness.Configuration.TokenConfiguration*
+https://timetrakker.com×
+Ô
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs& &(_
+%2string"CAlbumViewerBusiness.Configuration.TokenConfiguration.SigningKey.set*86
+4AlbumViewerBusiness.Configuration.TokenConfiguration*/-
++4rTGTad3Asdd$123ads*asd3iotgfd#12axads9310#²
+¯
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs( ((:	
+%3int"LAlbumViewerBusiness.Configuration.TokenConfiguration.TokenTimeoutMinutes.set*86
+4AlbumViewerBusiness.Configuration.TokenConfiguration*2-"«
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs! )(
+implicit returnB86
+4AlbumViewerBusiness.Configuration.TokenConfiguration

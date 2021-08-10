@@ -1,0 +1,81 @@
+
+0AlbumViewerNetCore.SqlUtil.CreateCommand(string)w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs ("0*Œ
+0w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (MÎ
+Ë
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs= (M
+%0string"__id*<*:
+AlbumViewerNetCore.SqlUtil"
+connectionStringstringÌÉ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs( (N)
+%1#System.Data.SQLite.SQLiteConnection"#System.Data.SQLite.SQLiteConnectionƒ
+€
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs, (<
+
+%2void"<System.Data.SQLite.SQLiteConnection.SQLiteConnection(string)*+
+)
+%1#System.Data.SQLite.SQLiteConnection*
+
+%0stringâ
+ß
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (N1
+
+connection#System.Data.SQLite.SQLiteConnection"__id*+
+)
+%1#System.Data.SQLite.SQLiteConnection*
+1*á
+1w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (ÆÃ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (F&
+%3 System.Data.SQLite.SQLiteCommand" System.Data.SQLite.SQLiteCommandÝ
+Ú
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs  (-
+
+%4void"[System.Data.SQLite.SQLiteCommand.SQLiteCommand(string, System.Data.SQLite.SQLiteConnection)*(
+&
+%3 System.Data.SQLite.SQLiteCommand*
+
+queryStringstring*3
+1
+
+connection#System.Data.SQLite.SQLiteConnectionÙ
+Ö
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (F+
+command System.Data.SQLite.SQLiteCommand"__id*(
+&
+%3 System.Data.SQLite.SQLiteCommand‡
+„
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs ()
+%5#System.Data.SQLite.SQLiteConnection"/System.Data.SQLite.SQLiteCommand.Connection.get*-
++
+command System.Data.SQLite.SQLiteCommandá
+Þ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (
+
+%6void"*System.Data.SQLite.SQLiteConnection.Open()*+
+)
+%5#System.Data.SQLite.SQLiteConnectionê
+ç
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (	
+%7int"2System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()*-
++
+command System.Data.SQLite.SQLiteCommand*
+2*
+2w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs ("Ž
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (
+implicit return:
+queryStringstringB
+AlbumViewerNetCore.SqlUtil

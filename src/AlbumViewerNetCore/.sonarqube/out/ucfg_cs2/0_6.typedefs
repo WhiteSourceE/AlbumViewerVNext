@@ -1,0 +1,27 @@
+…	
+AlbumViewerBusiness.Albumobject,
+Album()!AlbumViewerBusiness.Album.Album()*
+Id.get AlbumViewerBusiness.Album.Id.get*
+Id.set AlbumViewerBusiness.Album.Id.set0
+	Title.get#AlbumViewerBusiness.Album.Title.get0
+	Title.set#AlbumViewerBusiness.Album.Title.set<
+Description.get)AlbumViewerBusiness.Album.Description.get<
+Description.set)AlbumViewerBusiness.Album.Description.set.
+Year.get"AlbumViewerBusiness.Album.Year.get.
+Year.set"AlbumViewerBusiness.Album.Year.set6
+ImageUrl.get&AlbumViewerBusiness.Album.ImageUrl.get6
+ImageUrl.set&AlbumViewerBusiness.Album.ImageUrl.set8
+AmazonUrl.get'AlbumViewerBusiness.Album.AmazonUrl.get8
+AmazonUrl.set'AlbumViewerBusiness.Album.AmazonUrl.set:
+SpotifyUrl.get(AlbumViewerBusiness.Album.SpotifyUrl.get:
+SpotifyUrl.set(AlbumViewerBusiness.Album.SpotifyUrl.set6
+ArtistId.get&AlbumViewerBusiness.Album.ArtistId.get6
+ArtistId.set&AlbumViewerBusiness.Album.ArtistId.set2
+
+Artist.get$AlbumViewerBusiness.Album.Artist.get2
+
+Artist.set$AlbumViewerBusiness.Album.Artist.set2
+
+Tracks.get$AlbumViewerBusiness.Album.Tracks.get2
+
+Tracks.set$AlbumViewerBusiness.Album.Tracks.set

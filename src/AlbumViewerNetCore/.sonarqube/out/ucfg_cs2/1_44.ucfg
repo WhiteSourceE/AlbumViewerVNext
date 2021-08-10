@@ -1,0 +1,37 @@
+
+FAlbumViewerAspNetCore.ApiException.ApiException(System.Exception, int)í
+áD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiException.cs ("1*ù
+1í
+áD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiException.cs 	  (	*
+0*Ü
+0í
+áD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiException.cs@ (#ÎË
+í
+áD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiException.csG (Q
+%0string"System.Exception.Message.get*
+
+exSystem.Exception2Message.getÔ
+Ï
+í
+áD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiException.cs@ (R
+
+%1void"#System.Exception.Exception(string?)*
+System.Exception*
+
+%0stringÜ
+É
+í
+áD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiException.cs (#	
+%2int"1AlbumViewerAspNetCore.ApiException.StatusCode.set*&$
+"AlbumViewerAspNetCore.ApiException*
+""*
+2*≈
+2í
+áD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiException.cs 	  (	"™
+í
+áD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiException.cs   (	
+implicit return:
+exSystem.Exception:
+
+statusCodeintB&$
+"AlbumViewerAspNetCore.ApiException

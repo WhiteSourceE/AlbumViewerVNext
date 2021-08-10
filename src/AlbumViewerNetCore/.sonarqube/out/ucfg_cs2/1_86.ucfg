@@ -1,0 +1,172 @@
+
+iAlbumViewerNetCore.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs- -(%"0*ÓL
+0s
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs/ ñ(⁄
+◊
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs/ ?(A
+%0;Microsoft.Extensions.DependencyInjection.IServiceCollection"·Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)*W"U
+SMicrosoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""*
+""*
+""ıÚ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csA A(7@
+%1:AlbumViewerBusiness.Configuration.ApplicationConfiguration":AlbumViewerBusiness.Configuration.ApplicationConfigurationû
+õ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csA A(5
+
+%2void"UAlbumViewerBusiness.Configuration.ApplicationConfiguration.ApplicationConfiguration()*B
+@
+%1:AlbumViewerBusiness.Configuration.ApplicationConfigurationá
+Ñ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csA A(7D
+config:AlbumViewerBusiness.Configuration.ApplicationConfiguration"__id*B
+@
+%1:AlbumViewerBusiness.Configuration.ApplicationConfigurationÇ
+ˇ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csB B(;
+%35Microsoft.Extensions.Configuration.IConfigurationRoot",AlbumViewerNetCore.Startup.Configuration.get*
+AlbumViewerNetCore.Startup◊
+‘
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csB B(5
+
+%4void"~Microsoft.Extensions.Configuration.ConfigurationBinder.Bind(Microsoft.Extensions.Configuration.IConfiguration, string, object)*:"8
+6Microsoft.Extensions.Configuration.ConfigurationBinder*=
+;
+%35Microsoft.Extensions.Configuration.IConfigurationRoot*
+Application*F
+D
+config:AlbumViewerBusiness.Configuration.ApplicationConfiguration 
+«
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csC C()A
+%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"©Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, TService)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*F
+D
+config:AlbumViewerBusiness.Configuration.ApplicationConfigurationΩ
+∫
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csE E(&v'
+%AlbumViewerBusiness.Configuration.App"K
+Configuration:AlbumViewerBusiness.Configuration.ApplicationConfiguration"__id*F
+D
+config:AlbumViewerBusiness.Configuration.ApplicationConfigurationÇ
+ˇ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csL6 L(C;
+%65Microsoft.Extensions.Configuration.IConfigurationRoot",AlbumViewerNetCore.Startup.Configuration.get*
+AlbumViewerNetCore.Startup¡
+æ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csL L(DA
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"©Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, TService)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*=
+;
+%65Microsoft.Extensions.Configuration.IConfigurationRootÇ
+ˇ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csM2 M(?;
+%85Microsoft.Extensions.Configuration.IConfigurationRoot",AlbumViewerNetCore.Startup.Configuration.get*
+AlbumViewerNetCore.Startup¡
+æ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csM M(@A
+%9;Microsoft.Extensions.DependencyInjection.IServiceCollection"©Microsoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddSingleton<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection, TService)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*=
+;
+%85Microsoft.Extensions.Configuration.IConfigurationRoot±
+Æ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csQ ](B
+%10;Microsoft.Extensions.DependencyInjection.IServiceCollection"“Microsoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions.AddCors(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.AspNetCore.Cors.Infrastructure.CorsOptions>)*L"J
+HMicrosoft.Extensions.DependencyInjection.CorsServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+""å
+â
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csj' j(M
+%11"__id*
+""ë
+é
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csj j(N@
+%129Microsoft.AspNetCore.Authentication.AuthenticationBuilder"©Microsoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions.AddAuthentication(Microsoft.Extensions.DependencyInjection.IServiceCollection, string)*V"T
+RMicrosoft.Extensions.DependencyInjection.AuthenticationServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+
+%11ù
+ö
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csj x(@
+%139Microsoft.AspNetCore.Authentication.AuthenticationBuilder"”Microsoft.Extensions.DependencyInjection.JwtBearerExtensions.AddJwtBearer(Microsoft.AspNetCore.Authentication.AuthenticationBuilder, System.Action<Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerOptions>)*@">
+<Microsoft.Extensions.DependencyInjection.JwtBearerExtensions*B
+@
+%129Microsoft.AspNetCore.Authentication.AuthenticationBuilder*
+""¯
+ı
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÄ Ä(1B
+%14;Microsoft.Extensions.DependencyInjection.IServiceCollection"úMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¯
+ı
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÅ Å(2B
+%15;Microsoft.Extensions.DependencyInjection.IServiceCollection"úMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¯
+ı
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÇ Ç(3B
+%16;Microsoft.Extensions.DependencyInjection.IServiceCollection"úMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¯
+ı
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÖ Ö(4B
+%17;Microsoft.Extensions.DependencyInjection.IServiceCollection"úMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions.AddScoped<TService>(Microsoft.Extensions.DependencyInjection.IServiceCollection)*O"M
+KMicrosoft.Extensions.DependencyInjection.ServiceCollectionServiceExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection‰
+·
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csâ â(%;
+%184Microsoft.Extensions.DependencyInjection.IMvcBuilder"ìMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions.AddControllers(Microsoft.Extensions.DependencyInjection.IServiceCollection)*K"I
+GMicrosoft.Extensions.DependencyInjection.MvcServiceCollectionExtensions*I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection¶
+£
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csâ ñ(;
+%194Microsoft.Extensions.DependencyInjection.IMvcBuilder"’Microsoft.Extensions.DependencyInjection.NewtonsoftJsonMvcBuilderExtensions.AddNewtonsoftJson(Microsoft.Extensions.DependencyInjection.IMvcBuilder, System.Action<Microsoft.AspNetCore.Mvc.MvcNewtonsoftJsonOptions>)*O"M
+KMicrosoft.Extensions.DependencyInjection.NewtonsoftJsonMvcBuilderExtensions*=
+;
+%184Microsoft.Extensions.DependencyInjection.IMvcBuilder*
+""*
+1*á
+1t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csò	 ò(	"ã
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csò ò(	
+implicit return:G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB
+AlbumViewerNetCore.Startup

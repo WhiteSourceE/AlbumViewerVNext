@@ -1,0 +1,111 @@
+
+TAlbumViewerNetCore.Startup.Startup(Microsoft.AspNetCore.Hosting.IWebHostEnvironment)r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs ("1*|
+1r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs)	 )(	*
+0*î$
+0r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs  ((+ 
+
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs   ($f
+AlbumViewerNetCore.Startup"F
+HostingEnvironment0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentïì
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs" "(4=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder"7Microsoft.Extensions.Configuration.ConfigurationBuilder”
+‘
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs" "(2
+
+%1void"NMicrosoft.Extensions.Configuration.ConfigurationBuilder.ConfigurationBuilder()*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder˜•
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs# #(0
+%2string"AMicrosoft.Extensions.Hosting.IHostEnvironment.ContentRootPath.get*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment2ContentRootPath.getÛ
+Ø
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs" #(1>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder"ŒMicrosoft.Extensions.Configuration.FileConfigurationExtensions.SetBasePath(Microsoft.Extensions.Configuration.IConfigurationBuilder, string)*B"@
+>Microsoft.Extensions.Configuration.FileConfigurationExtensions*?
+=
+%07Microsoft.Extensions.Configuration.ConfigurationBuilder*
+
+%2stringþ
+û
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs" $(V>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder"˜Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string, bool, bool)*B"@
+>Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
+>
+%38Microsoft.Extensions.Configuration.IConfigurationBuilder*
+appsettings.json*
+""*
+""˜•
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs%, %(?
+%5string"AMicrosoft.Extensions.Hosting.IHostEnvironment.EnvironmentName.get*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment2EnvironmentName.get§
+¤
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs% %(F
+%6string"__concat*
+""*
+
+%5string§
+¤
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs% %(F
+%7string"__concat*
+
+%6string*
+""ê
+ç
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs" %(W>
+%88Microsoft.Extensions.Configuration.IConfigurationBuilder"’Microsoft.Extensions.Configuration.JsonConfigurationExtensions.AddJsonFile(Microsoft.Extensions.Configuration.IConfigurationBuilder, string, bool)*B"@
+>Microsoft.Extensions.Configuration.JsonConfigurationExtensions*@
+>
+%48Microsoft.Extensions.Configuration.IConfigurationBuilder*
+
+%7string*
+""Ö
+Ó
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs" &(*>
+%98Microsoft.Extensions.Configuration.IConfigurationBuilder"“Microsoft.Extensions.Configuration.EnvironmentVariablesExtensions.AddEnvironmentVariables(Microsoft.Extensions.Configuration.IConfigurationBuilder)*E"C
+AMicrosoft.Extensions.Configuration.EnvironmentVariablesExtensions*@
+>
+%88Microsoft.Extensions.Configuration.IConfigurationBuilder„
+
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs" &(*C
+builder8Microsoft.Extensions.Configuration.IConfigurationBuilder"__id*@
+>
+%98Microsoft.Extensions.Configuration.IConfigurationBuilderÇÄ
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs( ((+<
+%105Microsoft.Extensions.Configuration.IConfigurationRoot"@Microsoft.Extensions.Configuration.IConfigurationBuilder.Build()*E
+C
+builder8Microsoft.Extensions.Configuration.IConfigurationBuilder2Build()Ã
+À
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs( ((+<
+%115Microsoft.Extensions.Configuration.IConfigurationRoot",AlbumViewerNetCore.Startup.Configuration.set*
+AlbumViewerNetCore.Startup*>
+<
+%105Microsoft.Extensions.Configuration.IConfigurationRoot*
+2*ƒ
+2r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs)	 )(	"‰
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs) )(	
+implicit return:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB
+AlbumViewerNetCore.Startup

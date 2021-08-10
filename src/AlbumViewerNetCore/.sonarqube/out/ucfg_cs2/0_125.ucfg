@@ -1,0 +1,54 @@
+
+VWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.ErrorMessage.setü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs^ ^("0*ü
+0ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs` `(.Ô
+Ï
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs` `(/
+
+%0bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+valuestring*
+1
+2*ó
+1ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csa a()Í
+Á
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csa a()
+%1System.Exception"XWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.ErrorException.set*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+""*
+3*Å
+2ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csd d(8œÃ
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csd% d(9
+%2System.Exception"System.ExceptionÉ
+Ä
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csd) d(2
+
+%3void"#System.Exception.Exception(string?)*
+
+%2System.Exception*
+
+valuestring¸
+˘
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csd d(9
+%4System.Exception"XWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.ErrorException.set*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+%2System.Exception*
+3*ﬂ
+3ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cse e("∑
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cse e(
+implicit return:
+valuestringBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

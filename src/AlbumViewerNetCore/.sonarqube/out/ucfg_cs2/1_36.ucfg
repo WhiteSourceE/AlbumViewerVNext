@@ -1,0 +1,41 @@
+
+)AlbumViewerNetCore.Program.Main(string[])r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs
+ 
+("0*í	
+0r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (!š
+—
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (42
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder"9AlbumViewerNetCore.Program.CreateWebHostBuilder(string[])*"
+AlbumViewerNetCore.Program*
+
+argsstring[]ì
+é
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (47
+builder,Microsoft.AspNetCore.Hosting.IWebHostBuilder"__id*4
+2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilderž›
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (+
+%1%Microsoft.AspNetCore.Hosting.IWebHost"4Microsoft.AspNetCore.Hosting.IWebHostBuilder.Build()*9
+7
+builder,Microsoft.AspNetCore.Hosting.IWebHostBuilder2Build()Á
+¾
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (!
+
+%2void"YMicrosoft.AspNetCore.Hosting.WebHostExtensions.Run(Microsoft.AspNetCore.Hosting.IWebHost)*2"0
+.Microsoft.AspNetCore.Hosting.WebHostExtensions*-
++
+%1%Microsoft.AspNetCore.Hosting.IWebHost*
+1*ƒ
+1r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs	 (	"‰
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (	
+implicit return:
+argsstring[]B"
+AlbumViewerNetCore.Program

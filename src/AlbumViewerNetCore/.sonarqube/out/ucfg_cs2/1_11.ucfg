@@ -1,0 +1,56 @@
+
+öAlbumViewerNetCore.Controllers.ConfigurationController.ConfigurationController(Microsoft.Extensions.Options.IOptions<AlbumViewerBusiness.Configuration.ApplicationConfiguration>, Microsoft.Extensions.Configuration.IConfigurationRoot, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs (&"3*Ö
+1è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs#	 #(	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*∂	
+0è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs  "(%‡
+›
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs   (,8
+6AlbumViewerNetCore.Controllers.ConfigurationController"C
+AppConfiguration/Microsoft.Extensions.Options.IOptions<TOptions>"__id*B
+@
+configuration/Microsoft.Extensions.Options.IOptions<TOptions>Õ
+ 
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs! !(t8
+6AlbumViewerNetCore.Controllers.ConfigurationController"8
+Host0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*:
+8
+host0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentÊ
+„
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs" "(%Ö8
+6AlbumViewerNetCore.Controllers.ConfigurationController"I
+RawConfiguration5Microsoft.Extensions.Configuration.IConfigurationRoot"__id*A
+?
+config5Microsoft.Extensions.Configuration.IConfigurationRoot*
+2*ø
+2è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs#	 #(	"ß
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs# #(	
+implicit return*â
+3è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs% (%Ï
+È
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs (&
+%1"__entrypoint*B
+@
+configuration/Microsoft.Extensions.Options.IOptions<TOptions>*A
+?
+config5Microsoft.Extensions.Configuration.IConfigurationRoot*:
+8
+host0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1:@
+configuration/Microsoft.Extensions.Options.IOptions<TOptions>:?
+config5Microsoft.Extensions.Configuration.IConfigurationRoot:8
+host0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB:8
+6AlbumViewerNetCore.Controllers.ConfigurationController

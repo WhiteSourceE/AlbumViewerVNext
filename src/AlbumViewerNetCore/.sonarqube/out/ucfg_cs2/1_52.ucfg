@@ -1,0 +1,178 @@
+
+LAlbumViewerNetCore.Controllers.ConfigurationController.GetApplicationStats()è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs/ /()"8*¶
+0è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs8 8(3Ü
+É
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs8 8(3 
+%0System.Reflection.Assembly"-System.Reflection.Assembly.GetEntryAssembly()*"
+System.Reflection.Assembly*
+1
+2*£
+2è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs84 8(aÉ
+Ä
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs84 8(c8
+%12System.Runtime.Versioning.TargetFrameworkAttribute"]System.Reflection.CustomAttributeExtensions.GetCustomAttribute<T>(System.Reflection.Assembly)*/"-
++System.Reflection.CustomAttributeExtensions*"
+ 
+%0System.Reflection.Assembly*
+1
+3*¬
+3è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs8d 8(r•
+¢
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs8e 8(r
+%2string"DSystem.Runtime.Versioning.TargetFrameworkAttribute.FrameworkName.get*:
+8
+%12System.Runtime.Versioning.TargetFrameworkAttribute*
+1*“
+1è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs8 D(.º
+π
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs8 8(r
+vnamestring"__id*
+
+%2string„
+‡
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs: :(/;
+%35Microsoft.Extensions.Configuration.IConfigurationRoot"__id*à*Ö8
+6AlbumViewerNetCore.Controllers.ConfigurationController"I
+RawConfiguration5Microsoft.Extensions.Configuration.IConfigurationRootÃ…
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs: :(A
+%4string"BMicrosoft.Extensions.Configuration.IConfiguration.this[string].get*=
+;
+%35Microsoft.Extensions.Configuration.IConfigurationRoot*
+Data:useSqLite2this[string].get¿
+Ω
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs: :(A
+	useSqLitestring"__id*
+
+%4string¶
+£
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs= =(c
+%5string"JSystem.Runtime.InteropServices.RuntimeInformation.FrameworkDescription.get*5"3
+1System.Runtime.InteropServices.RuntimeInformationæ
+ª
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs= =(c
+runtimestring"__id*
+
+%5stringü
+ú
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csA A(\
+%6string"CSystem.Runtime.InteropServices.RuntimeInformation.OSDescription.get*5"3
+1System.Runtime.InteropServices.RuntimeInformation»
+≈
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csB# B(/
+%7string"__concat*
+
+vnamestring*
+ ( 
+«
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csC# C(h1
+%8+System.Runtime.InteropServices.Architecture"ISystem.Runtime.InteropServices.RuntimeInformation.ProcessArchitecture.get*5"3
+1System.Runtime.InteropServices.RuntimeInformation¸˘
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csC# C(s
+%9string"System.Enum.ToString()*3
+1
+%8+System.Runtime.InteropServices.Architecture2
+ToString()∆
+√
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csC# C(}
+%10string"string.ToLower()*
+
+%9stringœ
+Ã
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csB# C(}
+%11string"__concat*
+
+%7string*
+
+%10string«
+ƒ
+ê
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csB# C(É
+%12string"__concat*
+
+%11string*
+)Û
+
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csD D(.
+%13bool""string.operator ==(string, string)*
+"
+string*
+
+	useSqLitestring*
+true*
+4
+5*Å
+4è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csD1 D(9Æ
+´
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csD1 D(9
+%15"__id*
+
+SqLite≥
+∞
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csD1 D(9
+%14string"__id*
+
+%15*
+6*Ö
+5è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csD< D(H≤
+Ø
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csD< D(H
+%16"__id*
+
+Sql Server≥
+∞
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csD< D(H
+%14string"__id*
+
+%16*
+6*Ç
+6è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs? G(˚
+¯
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs? E(V
+statsM<anonymous type: string OsPlatform, string AspDotnetVersion, string DataMode>"__id*
+"""Ï
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csG G(X
+V
+statsM<anonymous type: string OsPlatform, string AspDotnetVersion, string DataMode>*ø
+7è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csH	 H(	"ß
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.csH H(	
+implicit return*«
+8è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs/+ /(+™
+ß
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs/ /()
+%17"__entrypoint*
+0B:8
+6AlbumViewerNetCore.Controllers.ConfigurationController

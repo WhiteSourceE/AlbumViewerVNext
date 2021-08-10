@@ -1,0 +1,74 @@
+
+YAlbumViewerAspNetCore.AlbumViewerApiController.InsertTrackSafe(AlbumViewerBusiness.Track)ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csp p(%"2*•
+
+0ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csr t(‘—
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csr r(+ 
+%0AlbumViewerNetCore.SqlUtil"AlbumViewerNetCore.SqlUtilÏ
+È
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csr" r()
+
+%1void"$AlbumViewerNetCore.SqlUtil.SqlUtil()*"
+ 
+%0AlbumViewerNetCore.SqlUtilÁ
+‰
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csr r(+%
+sqlUtilAlbumViewerNetCore.SqlUtil"__id*"
+ 
+%0AlbumViewerNetCore.SqlUtilæ
+ª
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.css s(0
+
+%2void"EAlbumViewerNetCore.SqlUtil.InsertTrackSafe(AlbumViewerBusiness.Track)*'
+%
+sqlUtilAlbumViewerNetCore.SqlUtil**
+(
+postedTrackAlbumViewerBusiness.Track"õ
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cst t(
+ok*¡
+1ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csu	 u(	"®
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csu u(	
+implicit return*ë	
+2ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cspC p(C÷
+”
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csp p(%
+%3"__entrypoint**
+(
+postedTrackAlbumViewerBusiness.Trackò
+ï
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csp' p(/
+%4"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()**
+(
+postedTrackAlbumViewerBusiness.Trackû
+õ
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cso	 o(*
+%5"
+__annotate*HF
+DMicrosoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute(string)**
+(
+postedTrackAlbumViewerBusiness.Trackﬁ
+€
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csp& p(B(
+postedTrackAlbumViewerBusiness.Track"__annotation*
+
+%4*
+
+%5*
+0:(
+postedTrackAlbumViewerBusiness.TrackB20
+.AlbumViewerAspNetCore.AlbumViewerApiController

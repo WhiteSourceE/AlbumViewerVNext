@@ -1,0 +1,17 @@
+ñ	
+4AlbumViewerBusiness.Configuration.EmailConfigurationobjecta
+EmailConfiguration()IAlbumViewerBusiness.Configuration.EmailConfiguration.EmailConfiguration()U
+MailServer.getCAlbumViewerBusiness.Configuration.EmailConfiguration.MailServer.getU
+MailServer.setCAlbumViewerBusiness.Configuration.EmailConfiguration.MailServer.setM
+
+UseTls.get?AlbumViewerBusiness.Configuration.EmailConfiguration.UseTls.getM
+
+UseTls.set?AlbumViewerBusiness.Configuration.EmailConfiguration.UseTls.sete
+MailServerUsername.getKAlbumViewerBusiness.Configuration.EmailConfiguration.MailServerUsername.gete
+MailServerUsername.setKAlbumViewerBusiness.Configuration.EmailConfiguration.MailServerUsername.sete
+MailServerPassword.getKAlbumViewerBusiness.Configuration.EmailConfiguration.MailServerPassword.gete
+MailServerPassword.setKAlbumViewerBusiness.Configuration.EmailConfiguration.MailServerPassword.set[
+SenderAddress.getFAlbumViewerBusiness.Configuration.EmailConfiguration.SenderAddress.get[
+SenderAddress.setFAlbumViewerBusiness.Configuration.EmailConfiguration.SenderAddress.setU
+SenderName.getCAlbumViewerBusiness.Configuration.EmailConfiguration.SenderName.getU
+SenderName.setCAlbumViewerBusiness.Configuration.EmailConfiguration.SenderName.set

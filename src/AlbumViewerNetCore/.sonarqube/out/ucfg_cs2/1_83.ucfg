@@ -1,0 +1,197 @@
+
+HAlbumViewerAspNetCore.AlbumViewerApiController.DeleteAlbumByName(string)í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs°" °(3"8*—
+
+0í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs£ £(:´
+®
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs£ £(+
+%0%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase•
+¢
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs£ £(!,
+%1&System.Security.Claims.ClaimsPrincipal".Microsoft.AspNetCore.Http.HttpContext.User.get*-
++
+%0%Microsoft.AspNetCore.Http.HttpContext∂≥
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs£ £(*)
+%2#System.Security.Principal.IIdentity"3System.Security.Claims.ClaimsPrincipal.Identity.get*.
+,
+%1&System.Security.Claims.ClaimsPrincipal2Identity.getüú
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs£ £(:
+
+%3bool"7System.Security.Principal.IIdentity.IsAuthenticated.get*+
+)
+%2#System.Security.Principal.IIdentity2IsAuthenticated.get*
+1
+2*Å
+1í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs§ §(UÊ„
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs§ §(V(
+%4"AlbumViewerAspNetCore.ApiException""AlbumViewerAspNetCore.ApiException¯
+ı
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs§ §(&
+
+%5void"jAlbumViewerAspNetCore.ApiException.ApiException(string, int, Westwind.Utilities.ValidationErrorCollection)**
+(
+%4"AlbumViewerAspNetCore.ApiException*+)
+'You have to be logged in to modify data*2ë*
+""*
+3*ö
+2í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs¶ ¨("µ
+≤
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csß ß(,
+%6&AlbumViewerBusiness.AlbumViewerContext"__id*g*e0
+.AlbumViewerAspNetCore.AlbumViewerApiController"1
+context&AlbumViewerBusiness.AlbumViewerContextØ
+¨
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csß ß($2
+%7,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1AlbumViewerBusiness.AlbumViewerContext.Albums.get*.
+,
+%6&AlbumViewerBusiness.AlbumViewerContextö
+ó
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csß ®(4
+%8System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%7,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""î
+ë
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csß ©(*
+%9System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*!
+
+%8System.Linq.IQueryable<T>*
+""”
+–
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csß ©(8+
+%10$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%9System.Linq.IQueryable<T>*
+""—
+Œ
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs¶ ©(8)
+pks"System.Collections.Generic.List<T>"__id*
+""’“
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs´ ´(2 
+%11System.Text.StringBuilder"System.Text.StringBuilderÙ
+Ò
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs´# ´(0
+%12void")System.Text.StringBuilder.StringBuilder()*"
+ 
+%11System.Text.StringBuilder„
+‡
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs´ ´(2
+sbSystem.Text.StringBuilder"__id*"
+ 
+%11System.Text.StringBuilder*
+4*†
+4í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs¥	 ¥(	*
+5
+6*’
+5í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csÆ Ø(≤
+Ø
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csÆ$ Æ(-*
+%13#AlbumViewerBusiness.AlbumRepository"__id*f*d0
+.AlbumViewerAspNetCore.AlbumViewerApiController"0
+	AlbumRepo#AlbumViewerBusiness.AlbumRepositoryƒ
+¡
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csÆ$ Æ(=+
+%14$System.Threading.Tasks.Task<TResult>":AlbumViewerBusiness.AlbumRepository.DeleteAlbum(int, bool)*,
+*
+%13#AlbumViewerBusiness.AlbumRepository*
+	
+pkint*
+""∂
+≥
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csÆ Æ(=
+resultbool"__id*
+""*
+7
+4*¢
+7í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs∞ ∞(8≤
+Ø
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs∞" ∞(+*
+%15#AlbumViewerBusiness.AlbumRepository"__id*f*d0
+.AlbumViewerAspNetCore.AlbumViewerApiController"0
+	AlbumRepo#AlbumViewerBusiness.AlbumRepository≠
+™
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs∞" ∞(8
+%16string"VWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.ErrorMessage.get*,
+*
+%15#AlbumViewerBusiness.AlbumRepositoryù
+ö
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs∞ ∞(9 
+%17System.Text.StringBuilder"-System.Text.StringBuilder.AppendLine(string?)*!
+
+sbSystem.Text.StringBuilder*
+
+%16string*
+4*¥
+6í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs≥ ≥( 
+Ì
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs≥ ≥( 
+%18string"$System.Text.StringBuilder.ToString()*!
+
+sbSystem.Text.StringBuilder"¶
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs≥ ≥(!
+
+%18string*≈
+3í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs¥	 ¥(	"™
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs¥ ¥(	
+implicit return*£
+8í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs°@ °(@ø
+º
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs°" °(3
+%19"__entrypoint*
+
+namestringˇ
+¸
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs†	 †(
+%20"
+__annotate*@>
+<Microsoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute()*
+
+namestringø
+º
+í
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs°4 °(?
+namestring"__annotation*
+
+%20*
+0:
+namestringB20
+.AlbumViewerAspNetCore.AlbumViewerApiController

@@ -1,0 +1,8 @@
+Ê
+$AlbumViewerBusiness.ArtistRepositoryEWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>object™
+8ArtistRepository(AlbumViewerBusiness.AlbumViewerContext)]AlbumViewerBusiness.ArtistRepository.ArtistRepository(AlbumViewerBusiness.AlbumViewerContext)G
+GetAllArtists()4AlbumViewerBusiness.ArtistRepository.GetAllArtists()W
+GetAlbumsForArtist(int)<AlbumViewerBusiness.ArtistRepository.GetAlbumsForArtist(int)Q
+ArtistLookup(string)9AlbumViewerBusiness.ArtistRepository.ArtistLookup(string)K
+DeleteArtist(int)6AlbumViewerBusiness.ArtistRepository.DeleteArtist(int)u
+&OnValidate(AlbumViewerBusiness.Artist)KAlbumViewerBusiness.ArtistRepository.OnValidate(AlbumViewerBusiness.Artist)

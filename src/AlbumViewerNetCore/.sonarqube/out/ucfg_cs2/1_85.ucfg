@@ -1,0 +1,281 @@
+
+êAlbumViewerNetCore.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Microsoft.Extensions.Logging.ILoggerFactory, AlbumViewerBusiness.AlbumViewerContext, Microsoft.Extensions.Configuration.IConfiguration)t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csõ õ("0*Ê
+0t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs£ ´(#π∂
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs£ £(2!
+%0Serilog.LoggerConfiguration"Serilog.LoggerConfiguration›
+⁄
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs£ £(0
+
+%1void"1Serilog.LoggerConfiguration.LoggerConfiguration()*#
+!
+%0Serilog.LoggerConfiguration¸
+˘
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs£ §(3
+%2-Serilog.Configuration.LoggerSinkConfiguration"'Serilog.LoggerConfiguration.WriteTo.get*#
+!
+%0Serilog.LoggerConfigurationÍ
+Á
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs£ §(L!
+%3Serilog.LoggerConfiguration"˝Serilog.RollingFileLoggerConfigurationExtensions.RollingFile(Serilog.Configuration.LoggerSinkConfiguration, string, Serilog.Events.LogEventLevel, string, System.IFormatProvider, long?, int?, Serilog.Core.LoggingLevelSwitch, bool, bool, System.TimeSpan?)*4"2
+0Serilog.RollingFileLoggerConfigurationExtensions*5
+3
+%2-Serilog.Configuration.LoggerSinkConfiguration*
+logs\log-{Date}.log*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""*
+""Â
+‚
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs£ •(#
+%4Serilog.Core.Logger"*Serilog.LoggerConfiguration.CreateLogger()*#
+!
+%3Serilog.LoggerConfiguration÷
+”
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs£ •(#
+%5Serilog.ILogger"Serilog.Log.Logger.set*"
+Serilog.Log*
+
+%4Serilog.Core.Loggerü
+ú
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csß ®(1
+%6+Microsoft.Extensions.Logging.ILoggerFactory"uSerilog.SerilogLoggerFactoryExtensions.AddSerilog(Microsoft.Extensions.Logging.ILoggerFactory, Serilog.ILogger, bool)**"(
+&Serilog.SerilogLoggerFactoryExtensions*>
+<
+loggerFactory+Microsoft.Extensions.Logging.ILoggerFactory*
+""*
+""˜
+Ù
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs´ ´(#
+
+%7bool"vMicrosoft.Extensions.Hosting.HostEnvironmentEnvExtensions.IsDevelopment(Microsoft.Extensions.Hosting.IHostEnvironment)*=";
+9Microsoft.Extensions.Hosting.HostEnvironmentEnvExtensions*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1
+2*º
+1t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs≠ ≠(/ª
+∏
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs≠ ≠(/6
+%80Microsoft.AspNetCore.Builder.IApplicationBuilder"âMicrosoft.AspNetCore.Builder.DeveloperExceptionPageExtensions.UseDeveloperExceptionPage(Microsoft.AspNetCore.Builder.IApplicationBuilder)*A"?
+=Microsoft.AspNetCore.Builder.DeveloperExceptionPageExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+3*Û
+2t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs± …(Ú
+Ô
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs± …(	6
+%90Microsoft.AspNetCore.Builder.IApplicationBuilder"æMicrosoft.AspNetCore.Builder.ExceptionHandlerExtensions.UseExceptionHandler(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Builder.IApplicationBuilder>)*;"9
+7Microsoft.AspNetCore.Builder.ExceptionHandlerExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""*
+3*–
+3t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csŒ –((Ñ
+Å
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csŒ1 Œ(p
+%10string"CSystem.Runtime.InteropServices.RuntimeInformation.OSDescription.get*5"3
+1System.Runtime.InteropServices.RuntimeInformationµ
+≤
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csŒ Œ(p
+%11string"__concat*
+
+Platform: *
+
+%10stringŒ
+À
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csŒ Œ(q
+%12void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%11stringÖ
+Ç
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csœ œ(,<
+%135Microsoft.Extensions.Configuration.IConfigurationRoot",AlbumViewerNetCore.Startup.Configuration.get*
+AlbumViewerNetCore.Startup≤Ø
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csœ œ(>
+%14string"BMicrosoft.Extensions.Configuration.IConfiguration.this[string].get*>
+<
+%135Microsoft.Extensions.Configuration.IConfigurationRoot*
+Data:useSqLite2this[string].get•
+¢
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csœ œ(>
+	useSqLitestring"__id*
+
+%14string◊
+‘
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs– –((
+%15bool""string.operator ==(string, string)*
+"
+string*
+
+	useSqLitestring*
+true*
+4
+5*≠
+4t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs–+ –(3í
+è
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs–+ –(3
+%17"__id*
+
+SqLiteó
+î
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs–+ –(3
+%16string"__id*
+
+%17*
+6*±
+5t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs–6 –(Bñ
+ì
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs–6 –(B
+%18"__id*
+
+Sql Serveró
+î
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs–6 –(B
+%16string"__id*
+
+%18*
+6*ü(
+6t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs– É(=Œ
+À
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs– –(C
+%19void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%16string√
+¿
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs“ “(7
+%200Microsoft.AspNetCore.Builder.IApplicationBuilder"ÖMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseRouting(Microsoft.AspNetCore.Builder.IApplicationBuilder)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder±
+Æ
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs‘ ‘(%7
+%210Microsoft.AspNetCore.Builder.IApplicationBuilder"wMicrosoft.AspNetCore.Builder.CorsMiddlewareExtensions.UseCors(Microsoft.AspNetCore.Builder.IApplicationBuilder, string)*9"7
+5Microsoft.AspNetCore.Builder.CorsMiddlewareExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+
+CorsPolicy£
+†
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs◊ ◊(#7
+%220Microsoft.AspNetCore.Builder.IApplicationBuilder"yMicrosoft.AspNetCore.Builder.AuthAppBuilderExtensions.UseAuthentication(Microsoft.AspNetCore.Builder.IApplicationBuilder)*9"7
+5Microsoft.AspNetCore.Builder.AuthAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderµ
+≤
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÿ ÿ("7
+%230Microsoft.AspNetCore.Builder.IApplicationBuilder"ÅMicrosoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions.UseAuthorization(Microsoft.AspNetCore.Builder.IApplicationBuilder)*B"@
+>Microsoft.AspNetCore.Builder.AuthorizationAppBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder¶
+£
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs€ €($7
+%240Microsoft.AspNetCore.Builder.IApplicationBuilder"{Microsoft.AspNetCore.Builder.StatusCodePagesExtensions.UseStatusCodePages(Microsoft.AspNetCore.Builder.IApplicationBuilder)*:"8
+6Microsoft.AspNetCore.Builder.StatusCodePagesExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderù
+ö
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.cs› ›(!7
+%250Microsoft.AspNetCore.Builder.IApplicationBuilder"uMicrosoft.AspNetCore.Builder.DefaultFilesExtensions.UseDefaultFiles(Microsoft.AspNetCore.Builder.IApplicationBuilder)*7"5
+3Microsoft.AspNetCore.Builder.DefaultFilesExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderò
+ï
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csﬁ ﬁ( 7
+%260Microsoft.AspNetCore.Builder.IApplicationBuilder"rMicrosoft.AspNetCore.Builder.StaticFileExtensions.UseStaticFiles(Microsoft.AspNetCore.Builder.IApplicationBuilder)*5"3
+1Microsoft.AspNetCore.Builder.StaticFileExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilderê
+ç
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÓ Ú(7
+%270Microsoft.AspNetCore.Builder.IApplicationBuilder" Microsoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions.UseEndpoints(Microsoft.AspNetCore.Builder.IApplicationBuilder, System.Action<Microsoft.AspNetCore.Routing.IEndpointRouteBuilder>)*L"J
+HMicrosoft.AspNetCore.Builder.EndpointRoutingApplicationBuilderExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""á
+Ñ
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csı ˇ(
+%28void"ãMicrosoft.AspNetCore.Builder.RunExtensions.Run(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Http.RequestDelegate)*.",
+*Microsoft.AspNetCore.Builder.RunExtensions*9
+7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder*
+""õò
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÉ É(0
+%29string"AMicrosoft.Extensions.Hosting.IHostEnvironment.ContentRootPath.get*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment2ContentRootPath.get‰
+·
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÉ É(>
+%30string"&System.IO.Path.Combine(string, string)*"
+System.IO.Path*
+
+%29string*
+	albums.jsÔ
+Ï
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÇ É(?
+%31bool"kAlbumViewerBusiness.AlbumViewerDataImporter.EnsureAlbumData(AlbumViewerBusiness.AlbumViewerContext, string)*/"-
++AlbumViewerBusiness.AlbumViewerDataImporter*8
+6
+albumContext&AlbumViewerBusiness.AlbumViewerContext*
+
+%30string*
+7*á
+7t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÑ	 Ñ(	"ã
+t
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Startup.csÑ Ñ(	
+implicit return:7
+app0Microsoft.AspNetCore.Builder.IApplicationBuilder:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment:<
+loggerFactory+Microsoft.Extensions.Logging.ILoggerFactory:6
+albumContext&AlbumViewerBusiness.AlbumViewerContext:B
+configuration1Microsoft.Extensions.Configuration.IConfigurationB
+AlbumViewerNetCore.Startup

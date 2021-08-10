@@ -1,0 +1,15 @@
+
+ZWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.OnAfterSave(TEntity)¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs® ®(*"0*Ö
+0¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs° °("¬
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs° °(
+""*ã
+1¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs±	 ±(	"¹
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs± ±(	
+implicit return:
+entityTEntityBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

@@ -1,0 +1,61 @@
+
+OWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.DbSet.getü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs& &("0*∏
+0ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs( (("Ê
+„
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs( ((2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*Ñ*ÅG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>"6
+_dbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>ü
+ú
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs( (("
+
+%1bool""object.operator ==(object, object)*
+"
+object*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+1
+2*û	
+1ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs) )(3”
+–
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs) )($
+%2TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>≥∞
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs) )(32
+%3,Microsoft.EntityFrameworkCore.DbSet<TEntity>"6Microsoft.EntityFrameworkCore.DbContext.Set<TEntity>()*
+
+%2TContext2Set<TEntity>()Â
+‚
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs) )(3ÅG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>"6
+_dbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*4
+2
+%3,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+2*È
+2ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs* *(Ê
+„
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs* *(2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*Ñ*ÅG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>"6
+_dbSet,Microsoft.EntityFrameworkCore.DbSet<TEntity>"ÿ
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs* *(4
+2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>*ﬂ
+3ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs+ +("∑
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs+ +(
+implicit returnBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

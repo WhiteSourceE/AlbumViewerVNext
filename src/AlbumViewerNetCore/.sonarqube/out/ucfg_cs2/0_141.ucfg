@@ -1,0 +1,116 @@
+
+VWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.LoadBase(object)¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs°. °(6"0*õ
+0¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs² ²(Æ
+Ã
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs² ²(
+matchobject"__id*
+""*
+1*Ö
+
+1¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csµ ¶(!÷
+ô
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csµ µ(2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.DbSet.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>×Ô
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csµ µ(&
+%1TEntity"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+idobject2Find(params object[])Ï
+Ì
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csµ µ(&
+matchobject"__id*
+
+%1TEntityþ
+û
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¶ ¶(!
+
+%2bool""object.operator ==(object, object)*
+"
+object*
+
+matchobject*
+""*
+2
+3*”
+2¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¸ ¹(>‚
+ÿ
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¸ ¸(F
+
+%3void"VWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SetError(string)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>**(
+&Unable to find matching entity for key¶
+³
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¹! ¹(?*
+%4$System.Threading.Tasks.Task<TResult>"8System.Threading.Tasks.Task.FromResult<TResult>(TResult)*"
+System.Threading.Tasks.Task*
+"""¬
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¹ ¹(@
+""*¯
+3¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÈ	 È(	*
+4
+5*·
+4¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¿ ¿(ˆ
+…
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¿ ¿(
+
+%5void"fWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SetError(System.Exception, bool)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+exSystem.Exception*
+""*
+5*Ì
+5¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÃ Ç(8Î
+Ë
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÃ Ã()
+%6object"__id*
+
+matchobjectÐ
+Í
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÃ Ã()
+entityTEntity"__id*
+
+%6object‰†
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÅ Å(!
+
+%7void"\Westwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.OnAfterLoaded(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+entityTEntity2OnAfterLoaded(TEntity)Ã
+À
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÇ Ç(9*
+%8$System.Threading.Tasks.Task<TResult>"8System.Threading.Tasks.Task.FromResult<TResult>(TResult)*"
+System.Threading.Tasks.Task*
+
+entityTEntity"¬
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÇ Ç(:
+""*ã
+6¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÈ	 È(	"¹
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÈ È(	
+implicit return:
+idobjectBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

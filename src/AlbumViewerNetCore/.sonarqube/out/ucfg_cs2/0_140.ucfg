@@ -1,0 +1,125 @@
+
+:AlbumViewerBusiness.AlbumRepository.LoadWithRawSql(string){
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csB* B(8"0*º
+0{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csD D(²
+¯
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csD D("
+albumAlbumViewerBusiness.Album"__id*
+""*
+1*°
+1{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csG I(!Ì
+É
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csG G(%,
+%0&AlbumViewerBusiness.AlbumViewerContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>—
+”
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csG G(,2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1AlbumViewerBusiness.AlbumViewerContext.Albums.get*.
+,
+%0&AlbumViewerBusiness.AlbumViewerContextÕ
+Ò
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csG8 G(f
+%2string"__concat*(&
+$SELECT * FROM Albums Where Title = '*
+
+titlestring¯
+¬
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csG8 G(l
+%3string"__concat*
+
+%2string*
+'É
+Æ
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csG G(m
+%4System.Linq.IQueryable<T>"–Microsoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+%3string*
+""Ã
+À
+|
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csG G(ƒ*
+%5$System.Threading.Tasks.Task<TResult>"¢Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%4System.Linq.IQueryable<T>*
+""³
+°
+|
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csG G(ƒ"
+albumAlbumViewerBusiness.Album"__id*
+""ê
+ç
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csI I(!
+
+%6bool""object.operator !=(object, object)*
+"
+object*$
+"
+albumAlbumViewerBusiness.Album*
+""*
+2
+3*û
+2{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csJ J('óð
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csJ J((
+
+%7void"\Westwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.OnAfterLoaded(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*$
+"
+albumAlbumViewerBusiness.Album2OnAfterLoaded(TEntity)*
+3*‹
+3{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csY	 Y(	*	
+4
+5
+6*ñ
+5{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csO P(æ
+ã
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csO O(M
+
+%8void"VWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SetError(string)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*53
+1Couldn't load album - invalid album id specified."…
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csP P(
+""*é
+4{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csU U(á
+Þ
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csU U(
+
+%9void"fWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SetError(System.Exception, bool)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+exSystem.Exception*
+""*
+6*¦
+6{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csX X("£
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csX X($
+"
+albumAlbumViewerBusiness.Album*•
+7{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csY	 Y(	"’
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.csY Y(	
+implicit return:
+titlestringB'%
+#AlbumViewerBusiness.AlbumRepository

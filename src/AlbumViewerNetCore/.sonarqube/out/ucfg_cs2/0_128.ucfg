@@ -1,0 +1,15 @@
+
+\Westwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.LoadWithRawSql(string)Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cso+ o(9"0*Ò
+0Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csq q("ª
+Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csq q(
+""*ß
+1Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csr	 r(	"·
+Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csr r(	
+implicit return:
+titlestringBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

@@ -1,0 +1,49 @@
+
+4AlbumViewerBusiness.ArtistRepository.GetAllArtists()|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs2 (?"0*–
+0|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs (Õ
+ 
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs (,
+%0&AlbumViewerBusiness.AlbumViewerContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ô
+ñ
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs ($2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"2AlbumViewerBusiness.AlbumViewerContext.Artists.get*.
+,
+%0&AlbumViewerBusiness.AlbumViewerContextí
+è
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs (+&
+%2 System.Linq.IOrderedQueryable<T>"çSystem.Linq.Queryable.OrderBy<TSource, TKey>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TKey>>)*"
+System.Linq.Queryable*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""Ñ
+Å
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs (
+%3System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*(
+&
+%2 System.Linq.IOrderedQueryable<T>*
+""ª
+∏
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs (*
+%4$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%3System.Linq.IQueryable<T>*
+"""Ü
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs (
+""*ó
+1|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs   ("ì
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs   (
+implicit returnB(&
+$AlbumViewerBusiness.ArtistRepository

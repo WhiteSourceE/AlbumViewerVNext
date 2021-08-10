@@ -1,0 +1,10 @@
+³
+#AlbumViewerBusiness.AlbumRepositoryEWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>object–
+7AlbumRepository(AlbumViewerBusiness.AlbumViewerContext)[AlbumViewerBusiness.AlbumRepository.AlbumRepository(AlbumViewerBusiness.AlbumViewerContext)z
+)OnAfterCreated(AlbumViewerBusiness.Album)MAlbumViewerBusiness.AlbumRepository.OnAfterCreated(AlbumViewerBusiness.Album)@
+Load(object)0AlbumViewerBusiness.AlbumRepository.Load(object)T
+LoadWithRawSql(string):AlbumViewerBusiness.AlbumRepository.LoadWithRawSql(string)T
+GetAllAlbums(int, int):AlbumViewerBusiness.AlbumRepository.GetAllAlbums(int, int)p
+$SaveAlbum(AlbumViewerBusiness.Album)HAlbumViewerBusiness.AlbumRepository.SaveAlbum(AlbumViewerBusiness.Album)T
+DeleteAlbum(int, bool):AlbumViewerBusiness.AlbumRepository.DeleteAlbum(int, bool)r
+%OnValidate(AlbumViewerBusiness.Album)IAlbumViewerBusiness.AlbumRepository.OnValidate(AlbumViewerBusiness.Album)

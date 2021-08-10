@@ -1,0 +1,56 @@
+
+MAlbumViewerBusiness.AlbumRepository.OnAfterCreated(AlbumViewerBusiness.Album){
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs  (."0*Å
+0{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (-‘—
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs ('
+
+%0void"]Westwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.OnAfterCreated(TEntity)*'%
+#AlbumViewerBusiness.AlbumRepository*%
+#
+entityAlbumViewerBusiness.Album2OnAfterCreated(TEntity)æª
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (( 
+%1AlbumViewerBusiness.Artist"AlbumViewerBusiness.Artist’
+“
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs  (&
+
+%2void"#AlbumViewerBusiness.Artist.Artist()*"
+ 
+%1AlbumViewerBusiness.Artistüú
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (( 
+%3AlbumViewerBusiness.Artist"$AlbumViewerBusiness.Album.Artist.set*%
+#
+entityAlbumViewerBusiness.Album*"
+ 
+%1AlbumViewerBusiness.Artist2
+Artist.setŒÀ
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (-(
+%4"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>„
+‡
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs  (+
+
+%5void")System.Collections.Generic.List<T>.List()**
+(
+%4"System.Collections.Generic.List<T>∞≠
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (-)
+%6#System.Collections.Generic.IList<T>"$AlbumViewerBusiness.Album.Tracks.set*%
+#
+entityAlbumViewerBusiness.Album**
+(
+%4"System.Collections.Generic.List<T>2
+Tracks.set*
+1*ï
+1{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs	 (	"í
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (	
+implicit return:#
+entityAlbumViewerBusiness.AlbumB'%
+#AlbumViewerBusiness.AlbumRepository

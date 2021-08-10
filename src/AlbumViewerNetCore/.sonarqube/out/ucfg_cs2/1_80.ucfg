@@ -1,0 +1,312 @@
+
+GAlbumViewerAspNetCore.AccountController.Login(AlbumViewerBusiness.User)ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csï  ï(%"6*¿
+0ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csó ò(®
+•
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csó ó((+
+%0%AlbumViewerBusiness.AccountRepository"__id*c*a)
+'AlbumViewerAspNetCore.AccountController"4
+accountRepo%AlbumViewerBusiness.AccountRepositoryÓ
+Î
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csóA ó(S
+%1string"%AlbumViewerBusiness.User.Username.get*'
+%
+	loginUserAlbumViewerBusiness.UserÓ
+Î
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csóU ó(g
+%2string"%AlbumViewerBusiness.User.Password.get*'
+%
+	loginUserAlbumViewerBusiness.User⁄
+◊
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csó ó(h*
+%3$System.Threading.Tasks.Task<TResult>"MAlbumViewerBusiness.AccountRepository.AuthenticateAndLoadUser(string, string)*-
++
+%0%AlbumViewerBusiness.AccountRepository*
+
+%1string*
+
+%2string¿
+Ω
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csó ó(h 
+userAlbumViewerBusiness.User"__id*
+""¯
+ı
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csò ò(
+
+%4bool""object.operator ==(object, object)*
+"
+object*"
+ 
+userAlbumViewerBusiness.User*
+""*
+1
+2*€
+1ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csô ô(Gﬁ€
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csô ô(H(
+%5"AlbumViewerAspNetCore.ApiException""AlbumViewerAspNetCore.ApiException‚
+ﬂ
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csô ô(&
+
+%6void"jAlbumViewerAspNetCore.ApiException.ApiException(string, int, Westwind.Utilities.ValidationErrorCollection)**
+(
+%5"AlbumViewerAspNetCore.ApiException*
+Invalid Login Credentials*2ë*
+""*
+3*˛
+2ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csõ û(%§
+°
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csõ. õ(_
+%7"__id*
+""‰·
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csõ õ(`+
+%8%System.Security.Claims.ClaimsIdentity"%System.Security.Claims.ClaimsIdentityí
+è
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csõ õ(-
+
+%9void"=System.Security.Claims.ClaimsIdentity.ClaimsIdentity(string?)*-
++
+%8%System.Security.Claims.ClaimsIdentity*
+
+%7¯
+ı
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csõ õ(`1
+identity%System.Security.Claims.ClaimsIdentity"__id*-
++
+%8%System.Security.Claims.ClaimsIdentity•
+¢
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csú( ú(7
+%10"__id*
+""Í
+Á
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csú9 ú(F
+%11string"%AlbumViewerBusiness.User.Username.get*"
+ 
+userAlbumViewerBusiness.User”–
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csú ú(G#
+%12System.Security.Claims.Claim"System.Security.Claims.Claimí
+è
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csú" ú('
+%13void"2System.Security.Claims.Claim.Claim(string, string)*%
+#
+%12System.Security.Claims.Claim*
+
+%10*
+
+%11stringÔÏ
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csú ú(H
+%14void"LSystem.Security.Claims.ClaimsIdentity.AddClaim(System.Security.Claims.Claim)*3
+1
+identity%System.Security.Claims.ClaimsIdentity*%
+#
+%12System.Security.Claims.Claim2&AddClaim(System.Security.Claims.Claim)Í
+Á
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csû û(
+%15string"%AlbumViewerBusiness.User.Fullname.get*"
+ 
+userAlbumViewerBusiness.UserÊ
+„
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csû û(%
+%16bool""string.operator ==(string, string)*
+"
+string*
+
+%15string*
+""*
+4
+5*⁄
+4ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csü ü(,ƒ
+¡
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csü  ü(,
+%17string"__id**
+string"
+Emptystring˚
+¯
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csü ü(,
+%18string"%AlbumViewerBusiness.User.Fullname.set*"
+ 
+userAlbumViewerBusiness.User*
+
+%17string*
+5*—$
+5ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs† ™(Í
+Á
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs†4 †(A
+%19string"%AlbumViewerBusiness.User.Fullname.get*"
+ 
+userAlbumViewerBusiness.User”–
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs† †(B#
+%20System.Security.Claims.Claim"System.Security.Claims.Claimó
+î
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs†" †('
+%21void"2System.Security.Claims.Claim.Claim(string, string)*%
+#
+%20System.Security.Claims.Claim*
+
+FullName*
+
+%19stringÔÏ
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs† †(C
+%22void"LSystem.Security.Claims.ClaimsIdentity.AddClaim(System.Security.Claims.Claim)*3
+1
+identity%System.Security.Claims.ClaimsIdentity*%
+#
+%20System.Security.Claims.Claim2&AddClaim(System.Security.Claims.Claim)ìê
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs¢ •(C
+%23<Microsoft.AspNetCore.Authentication.AuthenticationProperties"<Microsoft.AspNetCore.Authentication.AuthenticationPropertiesΩ
+∫
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs¢ ¢(4
+%24void"WMicrosoft.AspNetCore.Authentication.AuthenticationProperties.AuthenticationProperties()*E
+C
+%23<Microsoft.AspNetCore.Authentication.AuthenticationPropertiesŸ
+÷
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs§ §(,
+%25System.DateTime"System.DateTime.UtcNow.get*"
+System.DateTimeÍ
+Á
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs§ §(8
+%26System.DateTime" System.DateTime.AddHours(double)*
+
+%25System.DateTime*2Ÿ
+÷
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs§ §(8
+%27System.Nullable<T>"KMicrosoft.AspNetCore.Authentication.AuthenticationProperties.ExpiresUtc.set*E
+C
+%23<Microsoft.AspNetCore.Authentication.AuthenticationProperties*
+
+%26System.DateTime§
+°
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs¢ •(E
+props<Microsoft.AspNetCore.Authentication.AuthenticationProperties"__id*E
+C
+%23<Microsoft.AspNetCore.Authentication.AuthenticationProperties§
+°
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csß ß(,
+%28%Microsoft.AspNetCore.Http.HttpContext"7Microsoft.AspNetCore.Mvc.ControllerBase.HttpContext.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase•
+¢
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csß* ß([
+%29"__id*
+""Á‰
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs® ®(--
+%30&System.Security.Claims.ClaimsPrincipal"&System.Security.Claims.ClaimsPrincipal‡
+›
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs® ®(#
+%31void"[System.Security.Claims.ClaimsPrincipal.ClaimsPrincipal(System.Security.Principal.IIdentity)*/
+-
+%30&System.Security.Claims.ClaimsPrincipal*3
+1
+identity%System.Security.Claims.ClaimsIdentityô
+ñ
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csß ®(."
+%32System.Threading.Tasks.Task"´Microsoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions.SignInAsync(Microsoft.AspNetCore.Http.HttpContext, string?, System.Security.Claims.ClaimsPrincipal)*K"I
+GMicrosoft.AspNetCore.Authentication.AuthenticationHttpContextExtensions*.
+,
+%28%Microsoft.AspNetCore.Http.HttpContext*
+
+%29*/
+-
+%30&System.Security.Claims.ClaimsPrincipal"ï
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs™ ™(
+""*µ
+3ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs´	 ´(	"¢
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs´ ´(	
+implicit return*¥
+6ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csï@ ï(@Œ
+À
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csï  ï(%
+%33"__entrypoint*'
+%
+	loginUserAlbumViewerBusiness.Userê
+ç
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csï' ï(/
+%34"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.FromBodyAttribute.FromBodyAttribute()*'
+%
+	loginUserAlbumViewerBusiness.User¶
+£
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csí	 í(
+%35"
+__annotate*XV
+TMicrosoft.AspNetCore.Authorization.AllowAnonymousAttribute.AllowAnonymousAttribute()*'
+%
+	loginUserAlbumViewerBusiness.Userê
+ç
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csì	 ì(
+%36"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.HttpPostAttribute.HttpPostAttribute()*'
+%
+	loginUserAlbumViewerBusiness.Userê
+ç
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csî	 î(
+%37"
+__annotate*B@
+>Microsoft.AspNetCore.Mvc.RouteAttribute.RouteAttribute(string)*'
+%
+	loginUserAlbumViewerBusiness.UserÈ
+Ê
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csï& ï(?%
+	loginUserAlbumViewerBusiness.User"__annotation*
+
+%34*
+
+%35*
+
+%36*
+
+%37*
+0:%
+	loginUserAlbumViewerBusiness.UserB+)
+'AlbumViewerAspNetCore.AccountController

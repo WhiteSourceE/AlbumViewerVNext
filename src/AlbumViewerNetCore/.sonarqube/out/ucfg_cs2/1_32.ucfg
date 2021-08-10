@@ -1,0 +1,30 @@
+
+6AlbumViewerAspNetCore.AlbumViewerApiController.Throw()ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs< <("2*∂
+0ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs> >(P‡›
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs> >(Q&
+%0 System.InvalidOperationException" System.InvalidOperationExceptionµ
+≤
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs> >(/
+
+%1void"CSystem.InvalidOperationException.InvalidOperationException(string?)*(
+&
+%0 System.InvalidOperationException*" 
+This is an unhandled exception*
+1*¡
+1ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs?	 ?(	"®
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs? ?(	
+implicit return*»
+2ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs< <(™
+ß
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs< <(
+%2"__entrypoint*
+0B20
+.AlbumViewerAspNetCore.AlbumViewerApiController

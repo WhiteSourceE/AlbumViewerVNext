@@ -1,0 +1,27 @@
+
+ãAlbumViewerAspNetCore.ApiExceptionFilter.ApiExceptionFilter(Microsoft.Extensions.Logging.ILogger<AlbumViewerAspNetCore.ApiExceptionFilter>)ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (!"1* 
+1ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs	 (	§
+°
+
+%0void"TMicrosoft.AspNetCore.Mvc.Filters.ExceptionFilterAttribute.ExceptionFilterAttribute()*=;
+9Microsoft.AspNetCore.Mvc.Filters.ExceptionFilterAttribute*
+0*˘
+0ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (”
+–
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (l*
+(AlbumViewerAspNetCore.ApiExceptionFilter">
+_Logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*—
+2ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs	 (	"∞
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (	
+implicit return:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>B,*
+(AlbumViewerAspNetCore.ApiExceptionFilter

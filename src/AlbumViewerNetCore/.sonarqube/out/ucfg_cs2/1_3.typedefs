@@ -1,0 +1,7 @@
+ä
+AlbumViewerNetCore.Startupobjectë
+9Startup(Microsoft.AspNetCore.Hosting.IWebHostEnvironment)TAlbumViewerNetCore.Startup.Startup(Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ª
+NConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)iAlbumViewerNetCore.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)ã
+ıConfigure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Microsoft.Extensions.Logging.ILoggerFactory, AlbumViewerBusiness.AlbumViewerContext, Microsoft.Extensions.Configuration.IConfiguration)êAlbumViewerNetCore.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder, Microsoft.AspNetCore.Hosting.IWebHostEnvironment, Microsoft.Extensions.Logging.ILoggerFactory, AlbumViewerBusiness.AlbumViewerContext, Microsoft.Extensions.Configuration.IConfiguration)A
+Configuration.get,AlbumViewerNetCore.Startup.Configuration.getA
+Configuration.set,AlbumViewerNetCore.Startup.Configuration.set

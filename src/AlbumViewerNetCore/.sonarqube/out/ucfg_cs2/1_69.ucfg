@@ -1,0 +1,51 @@
+
+FAlbumViewerAspNetCore.AlbumViewerApiController.GetAlbumByTitle(string)ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csj! j(0"2*ø
+0ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csl l(7Ø
+¨
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csl l(")
+%0#AlbumViewerBusiness.AlbumRepository"__id*f*d0
+.AlbumViewerAspNetCore.AlbumViewerApiController"0
+	AlbumRepo#AlbumViewerBusiness.AlbumRepository÷”
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csl l(8*
+%1$System.Threading.Tasks.Task<TResult>":AlbumViewerBusiness.AlbumRepository.LoadWithRawSql(string)*+
+)
+%0#AlbumViewerBusiness.AlbumRepository*
+
+titlestring2LoadWithRawSql(string)"õ
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csl l(9
+""*¡
+1ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csm	 m(	"®
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csm m(	
+implicit return*°
+2ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csj> j(>Ω
+∫
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csj! j(0
+%2"__entrypoint*
+
+titlestringÉ
+Ä
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csi	 i(7
+%3"
+__annotate*FD
+BMicrosoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute(string)*
+
+titlestringΩ
+∫
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csj1 j(=
+titlestring"__annotation*
+
+%3*
+0:
+titlestringB20
+.AlbumViewerAspNetCore.AlbumViewerApiController

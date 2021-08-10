@@ -1,0 +1,36 @@
+
+QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Create<T>()°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csã ã("0*È
+0°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csé ê(ª∏
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csé é( K
+%0EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>"EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>â
+Ü
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csé é( 
+entityT"__id*M
+K
+%0EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>’
+“
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csè è(
+%1TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>Á‰
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csè è("G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"=Microsoft.EntityFrameworkCore.DbContext.Add<TEntity>(TEntity)*
+
+%1TContext*
+
+entityT2Add<TEntity>(TEntity)"≥
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csê ê(
+
+entityT*„
+1°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csë	 ë(	"π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csë ë(	
+implicit returnBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

@@ -1,0 +1,101 @@
+
+éAlbumViewerAspNetCore.AlbumViewerApiController.AlbumViewerApiController(AlbumViewerBusiness.AlbumViewerContext, System.IServiceProvider, AlbumViewerBusiness.ArtistRepository, AlbumViewerBusiness.AlbumRepository, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.Logging.ILogger<AlbumViewerAspNetCore.AlbumViewerApiController>, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs# #('"3*Ü
+1ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs5	 5(	i
+g
+
+%0void"0Microsoft.AspNetCore.Mvc.Controller.Controller()*'%
+#Microsoft.AspNetCore.Mvc.Controller*
+0*Ë
+0ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs, 4(¥
+±
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs, ,(e0
+.AlbumViewerAspNetCore.AlbumViewerApiController"1
+context&AlbumViewerBusiness.AlbumViewerContext"__id*/
+-
+ctx&AlbumViewerBusiness.AlbumViewerContext¶
+£
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs- -()^0
+.AlbumViewerAspNetCore.AlbumViewerApiController"*
+serviceProviderSystem.IServiceProvider"__id*(
+&
+svcProviderSystem.IServiceProvider”
+–
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs. .("v0
+.AlbumViewerAspNetCore.AlbumViewerApiController"B
+Configuration1Microsoft.Extensions.Configuration.IConfiguration"__id*=
+;
+config1Microsoft.Extensions.Configuration.IConfiguration∂
+≥
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs0 0(!d0
+.AlbumViewerAspNetCore.AlbumViewerApiController"0
+	AlbumRepo#AlbumViewerBusiness.AlbumRepository"__id*2
+0
+	albumRepo#AlbumViewerBusiness.AlbumRepository∫
+∑
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs1 1(#f0
+.AlbumViewerAspNetCore.AlbumViewerApiController"2
+
+ArtistRepo$AlbumViewerBusiness.ArtistRepository"__id*4
+2
+
+artistRepo$AlbumViewerBusiness.ArtistRepository–
+Õ
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs2 2(q0
+.AlbumViewerAspNetCore.AlbumViewerApiController"=
+Logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>À
+»
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs4 4(r0
+.AlbumViewerAspNetCore.AlbumViewerApiController">
+
+HostingEnv0Microsoft.AspNetCore.Hosting.IWebHostEnvironment"__id*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+2*¡
+2ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs5	 5(	"®
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs5 5(	
+implicit return*»
+3ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs*$ *($™
+ß
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.cs# #('
+%1"__entrypoint*/
+-
+ctx&AlbumViewerBusiness.AlbumViewerContext*(
+&
+svcProviderSystem.IServiceProvider*4
+2
+
+artistRepo$AlbumViewerBusiness.ArtistRepository*2
+0
+	albumRepo#AlbumViewerBusiness.AlbumRepository*=
+;
+config1Microsoft.Extensions.Configuration.IConfiguration*?
+=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*9
+7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironment*
+1:-
+ctx&AlbumViewerBusiness.AlbumViewerContext:&
+svcProviderSystem.IServiceProvider:2
+
+artistRepo$AlbumViewerBusiness.ArtistRepository:0
+	albumRepo#AlbumViewerBusiness.AlbumRepository:;
+config1Microsoft.Extensions.Configuration.IConfiguration:=
+logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>:7
+env0Microsoft.AspNetCore.Hosting.IWebHostEnvironmentB20
+.AlbumViewerAspNetCore.AlbumViewerApiController

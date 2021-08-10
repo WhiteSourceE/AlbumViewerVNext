@@ -1,0 +1,81 @@
+
+^Westwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SaveAsync(TEntity, bool)°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs›  ›()"0*Ø
+0°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csﬂ ﬂ(*
+1
+2*ï
+1°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs· ·(C’
+“
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs·  ·('
+%0TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>¿Ω
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs·  ·(0A
+%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*
+
+%0TContext2Database.getìê
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs·  ·(CA
+%2;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"NMicrosoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.BeginTransaction()*C
+A
+%1;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade2BeginTransaction()µ
+≤
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs· ·(CA
+tx;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction"__id*C
+A
+%2;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction*
+3*ø
+3°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs„ „(.ç
+ä
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs„ „(/*
+%3$System.Threading.Tasks.Task<TResult>"XWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SaveAsync(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+entityTEntity*
+4
+5*°
+4°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÂ Ê(#»≈
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÂ Â(#
+
+%4void"DMicrosoft.EntityFrameworkCore.Storage.IDbContextTransaction.Commit()*C
+A
+tx;Microsoft.EntityFrameworkCore.Storage.IDbContextTransaction2Commit()"¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÊ Ê($
+""*÷
+5°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csË Ë( "¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csË Ë(!
+""*¨
+6°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÌ	 Ì(	*
+2*Ê
+2°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÏ Ï()ç
+ä
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÏ Ï(**
+%5$System.Threading.Tasks.Task<TResult>"XWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SaveAsync(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+entityTEntity"¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÏ Ï(+
+""*„
+7°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÌ	 Ì(	"π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÌ Ì(	
+implicit return:
+entityTEntity:
+useTransactionboolBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

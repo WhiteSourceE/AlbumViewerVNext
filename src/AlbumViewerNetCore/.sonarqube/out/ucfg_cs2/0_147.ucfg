@@ -1,0 +1,79 @@
+
+éWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.LoadBase(System.Linq.Expressions.Expression<System.Func<TEntity, bool>>)°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÌ. Ì(6"0*ˇ
+0°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÔ Ô(–
+Õ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÔ Ô(
+
+%0void"PWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SetError()*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+1*≤
+1°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÖ	 Ö(	*	
+2
+3
+4*≠
+2°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÛ ˆ(˜
+Ù
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÛ# Û((2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.DbSet.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>Ç
+ˇ
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÛ# Û(O*
+%2$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*D
+B
+whereClauseLambda-System.Linq.Expressions.Expression<TDelegate>*
+""»
+≈
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÛ Û(O
+entityTEntity"__id*
+"""π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csˆ ˆ(
+
+entityTEntity*Ã
+4°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs˚ ¸(Û
+
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs˚ ˚(3
+
+%3void"VWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SetError(string)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+Couldn't load entity..."¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¸ ¸(
+""*∑
+3°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÅ Å(à
+Ö
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÅ Å(
+
+%4void"fWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SetError(System.Exception, bool)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+exSystem.Exception*
+""*
+5*÷
+5°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÑ Ñ("¨
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÑ Ñ(
+""*„
+6°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÖ	 Ö(	"π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÖ Ö(	
+implicit return:B
+whereClauseLambda-System.Linq.Expressions.Expression<TDelegate>BIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

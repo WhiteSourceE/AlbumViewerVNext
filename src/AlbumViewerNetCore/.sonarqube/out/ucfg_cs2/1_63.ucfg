@@ -1,0 +1,494 @@
+
+∂AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.Process(Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext, Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput)ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csD D( "0*œ
+0ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csH H((æ
+ª
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csH! H((
+%0string"KAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.message.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperÂ
+‚
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csH H()
+
+%1bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%0string*
+1
+2*Œ
+1ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csH- H(HΩ
+∫
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csHB H(H
+%2string"JAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.header.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperÂ
+‚
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csH- H(I
+
+%3bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%2string*
+3
+2*ƒ
+3ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csg g("£
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csI I(
+""*Ã
+2ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csK K(%ª
+∏
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csK! K(%
+%4string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperÂ
+‚
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csK K(&
+
+%5bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%4string*
+4
+5*Ó
+4ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csL L(»
+≈
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csL L(
+%6string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.set*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper*	
+warning*
+5*ﬁ
+5ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM M(ª
+∏
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM M(
+%7string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper˜
+Ù
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM M(
+
+%8bool""string.operator ==(string, string)*
+"
+string*
+
+%7string*	
+warning*
+6
+7*›
+7ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM! M(0ª
+∏
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM! M(%
+%9string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperˆ
+Û
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM! M(0
+%10bool""string.operator ==(string, string)*
+"
+string*
+
+%9string*	
+error*
+6
+8*‡
+8ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM4 M(Dº
+π
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM4 M(8
+%11string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper¯
+ı
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csM4 M(D
+%12bool""string.operator ==(string, string)*
+"
+string*
+
+%11string*
+
+danger*
+6
+9*â
+6ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csN N("º
+π
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csN N(
+%13string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper‘
+—
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csN N("
+%14string"__concat*
+
+%13string*
+
+ errorÕ
+ 
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csN N("
+%15string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.set*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper*
+
+%14string*
+9*◊
+9ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csP P(+¬
+ø
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csP! P(+
+%16string"NAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.alertClass.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperÁ
+‰
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csP P(,
+%17bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%16string*
+10
+11*∫
+10ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csQ Q(º
+π
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csQ Q(
+%18string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper”
+–
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csQ Q(
+%19string"NAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.alertClass.set*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper*
+
+%18string*
+11*Ô
+11ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csS S(+√
+¿
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csS S(+
+%20bool"QAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.messageAsHtml.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper*
+12
+13*¸
+12ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csS. S(Vø
+º
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csSO S(V
+%24string"KAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.message.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperÑ
+Å
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csS. S(W
+%25string")System.Net.WebUtility.HtmlEncode(string?)*"
+System.Net.WebUtility*
+
+%24stringƒ
+¡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csS. S(W
+%22string"__id*
+
+%25stringƒ
+¡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csS. S(W
+%21string"__id*
+
+%22string*
+14*ı
+13ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csSZ S(aø
+º
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csSZ S(a
+%26string"KAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.message.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperƒ
+¡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csSZ S(a
+%23string"__id*
+
+%26stringƒ
+¡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csSZ S(a
+%21string"__id*
+
+%23string*
+14*Ò	
+14ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csS X(Ã
+…
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csS S(a
+messageTextstring"__id*
+
+%21stringº
+π
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csU U(
+%27string"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.TagName.set*A
+?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput*
+div¿
+Ω
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csX X(
+%28string"LAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.cssClass.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperÙ
+Ò
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csX X(
+%29bool""string.operator !=(string, string)*
+"
+string*
+
+%28string*
+""*
+15
+16*ª
+15ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csY Y(>¿
+Ω
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csY Y(
+%30string"LAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.cssClass.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper€
+ÿ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csY Y(1
+%31string"__concat*
+
+%30string*
+ alert alert-¬
+ø
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csY4 Y(>
+%32string"NAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.alertClass.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperŸ
+÷
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csY Y(>
+%33string"__concat*
+
+%31string*
+
+%32string—
+Œ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csY Y(>
+%34string"LAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.cssClass.set*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper*
+
+%33string*
+17*õ
+16ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs[ [(2¬
+ø
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs[( [(2
+%35string"NAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.alertClass.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper⁄
+◊
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs[ [(2
+%36string"__concat*
+alert alert-*
+
+%35string—
+Œ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs[ [(2
+%37string"LAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.cssClass.set*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper*
+
+%36string*
+17*È
+17ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs\ ^('Ï
+È
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs\ \(C
+%38<Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList"DMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Attributes.get*A
+?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutput¿
+Ω
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs\' \(/
+%39string"LAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.cssClass.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper‡
+›
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs\ \(0
+%40void"PMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList.Add(string, object)*E
+C
+%38<Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttributeList*	
+class*
+
+%39stringæ
+ª
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs^! ^('
+%41string"JAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.header.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperÁ
+‰
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs^ ^((
+%42bool"string.IsNullOrEmpty(string?)*
+"
+string*
+
+%41string*
+18
+19*—
+18ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs_ _(Q„
+‡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs_ _(=
+%436Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Content.get*A
+?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputº
+π
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs_9 _(=
+%44string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs_& _(S
+%45string"__concat*
+""*
+
+%44string–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs_& _(S
+%46string"__concat*
+
+%45string*
+""·
+ﬁ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs_& _(S
+%47string"__concat*
+
+%46string*
+
+messageTextstring˙
+˜
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cs_ _(T=
+%486Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"IMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperContent.SetContent(string)*?
+=
+%436Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent*
+
+%47string*
+20*Ï
+19ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csb e(„
+‡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csb b(=
+%496Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"AMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperOutput.Content.get*A
+?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputº
+π
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csc' c(+
+%50string"HAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.icon.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelperæ
+ª
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csc4 c(:
+%51string"JAlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper.header.get*CA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csc c(E
+%52string"__concat*
+""*
+
+%50string–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csc c(E
+%53string"__concat*
+
+%52string*
+""Ÿ
+÷
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csc c(E
+%54string"__concat*
+
+%53string*
+
+%51string–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csc c(E
+%55string"__concat*
+
+%54string*
+""’
+“
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csc d(
+%56string"__concat*
+
+%55string*	
+<hr/>
+ÿ
+’
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.cse e($
+%57string"__concat*
+
+messageTextstring*
+""Ÿ
+÷
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csc e($
+%58string"__concat*
+
+%56string*
+
+%57string˙
+˜
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csb e(%=
+%596Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent"IMicrosoft.AspNetCore.Razor.TagHelpers.TagHelperContent.SetContent(string)*?
+=
+%496Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContent*
+
+%58string*
+20*“
+20ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csg g("∞
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\TagHelpers\ErrorDisplayTagHelper.csg g(
+implicit return:A
+context6Microsoft.AspNetCore.Razor.TagHelpers.TagHelperContext:?
+output5Microsoft.AspNetCore.Razor.TagHelpers.TagHelperOutputBCA
+?AlbumViewerAspNet5.Controllers.TagHelpers.ErrorDisplayTagHelper

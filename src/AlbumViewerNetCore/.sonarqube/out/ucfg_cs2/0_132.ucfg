@@ -1,0 +1,43 @@
+
+NWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Create()ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csy y("0*˛
+0†
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs{ Ä(π∂
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs{ {(*K
+%0EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>"EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ç
+ä
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs{ {(*
+entityTEntity"__id*M
+K
+%0EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>”
+–
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs| |(
+%1TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ÎË
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs| |((G
+%2AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"=Microsoft.EntityFrameworkCore.DbContext.Add<TEntity>(TEntity)*
+
+%1TContext*
+
+entityTEntity2Add<TEntity>(TEntity)âÜ
+ü
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs~ ~("
+
+%3void"]Westwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.OnAfterCreated(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+entityTEntity2OnAfterCreated(TEntity)"π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÄ Ä(
+
+entityTEntity*„
+1°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÅ	 Å(	"π
+°
+îD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÅ Å(	
+implicit returnBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

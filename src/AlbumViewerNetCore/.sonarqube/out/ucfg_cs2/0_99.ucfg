@@ -1,0 +1,24 @@
+
+iAlbumViewerBusiness.AlbumViewerContext.AlbumViewerContext(Microsoft.EntityFrameworkCore.DbContextOptions)Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs (!"1*™
+1Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs	 (	*
+0*‰
+0Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs< (Jí
+ê
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs< (K
+
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*+)
+'Microsoft.EntityFrameworkCore.DbContext*;
+9
+options.Microsoft.EntityFrameworkCore.DbContextOptions*
+2*½
+2Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs	 (	"¦
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerContext.cs (	
+implicit return:9
+options.Microsoft.EntityFrameworkCore.DbContextOptionsB*(
+&AlbumViewerBusiness.AlbumViewerContext

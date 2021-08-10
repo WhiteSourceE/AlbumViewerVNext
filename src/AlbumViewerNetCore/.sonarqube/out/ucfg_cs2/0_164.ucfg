@@ -1,0 +1,26 @@
+
+YWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.OnValidate(TEntity)¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÑ Ñ()"0*ó
+0¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csØ Ø(-‚
+ÿ
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csØ Ø(#2
+%0,Westwind.Utilities.ValidationErrorCollection"ZWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.ValidationErrors.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>•
+’
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csØ Ø()	
+%1int"+System.Collections.CollectionBase.Count.get*4
+2
+%0,Westwind.Utilities.ValidationErrorCollection"¬
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csØ Ø(.
+""*ã
+1¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÙ	 Ù(	"¹
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csÙ Ù(	
+implicit return:
+entityTEntityBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

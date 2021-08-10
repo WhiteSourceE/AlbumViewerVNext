@@ -1,0 +1,128 @@
+
+EAlbumViewerBusiness.Track.BuildInsertQuery(AlbumViewerBusiness.Track)x
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (&"0*˛
+0y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (‡’
+“
+x
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.csk (x	
+%0int"%AlbumViewerBusiness.Track.AlbumId.get*$
+"
+trackAlbumViewerBusiness.Track¯
+ı
+x
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (x	
+%1int"__concat*WU
+SINSERT INTO Tracks (Id, AlbumId, SongName, Length, Bytes, UnitPrice) VALUES (NULL, *
+	
+%0int©
+¶
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (Ä	
+%2int"__concat*
+	
+%1int*
+, '€
+ÿ
+z
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.csÉ (ë
+%3string"&AlbumViewerBusiness.Track.SongName.get*$
+"
+trackAlbumViewerBusiness.Track∞
+≠
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (ë	
+%4int"__concat*
+	
+%2int*
+
+%3string™
+ß
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (ö	
+%5int"__concat*
+	
+%4int*
+', 'Ÿ
+÷
+z
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.csù (©
+%6string"$AlbumViewerBusiness.Track.Length.get*$
+"
+trackAlbumViewerBusiness.Track∞
+≠
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (©	
+%7int"__concat*
+	
+%5int*
+
+%6string©
+¶
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (±	
+%8int"__concat*
+	
+%7int*
+', ’
+“
+z
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs¥ (ø	
+%9int"#AlbumViewerBusiness.Track.Bytes.get*$
+"
+trackAlbumViewerBusiness.TrackÆ
+´
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (ø
+
+%10int"__concat*
+	
+%8int*
+	
+%9int´
+®
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs («
+
+%11int"__concat*
+
+
+%10int*
+, 'ﬁ
+€
+z
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs  (Ÿ
+%12decimal"'AlbumViewerBusiness.Track.UnitPrice.get*$
+"
+trackAlbumViewerBusiness.Track¥
+±
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (Ÿ
+
+%13int"__concat*
+
+
+%11int*
+
+%12decimal™
+ß
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (‡
+
+%14int"__concat*
+
+
+%13int*
+')"â
+y
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (·
+
+
+%14int*è
+1x
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs	 (	"è
+x
+nD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Track.cs (	
+implicit return:"
+trackAlbumViewerBusiness.TrackB
+AlbumViewerBusiness.Track

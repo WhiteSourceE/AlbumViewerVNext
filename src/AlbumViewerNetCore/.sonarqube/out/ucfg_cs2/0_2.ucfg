@@ -1,0 +1,55 @@
+
+UAlbumViewerBusiness.Configuration.ApplicationConfiguration.ApplicationConfiguration()“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs ()"0*—
+0“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs (Ò
+Ï
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs (N
+%0string"NAlbumViewerBusiness.Configuration.ApplicationConfiguration.ApplicationName.set*><
+:AlbumViewerBusiness.Configuration.ApplicationConfiguration*
+West Wind AlbumViewer·
+´
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs (3	
+%1int"KAlbumViewerBusiness.Configuration.ApplicationConfiguration.MaxListItems.set*><
+:AlbumViewerBusiness.Configuration.ApplicationConfiguration*2
+‹ˆ
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs@ (X:
+%24AlbumViewerBusiness.Configuration.EmailConfiguration"4AlbumViewerBusiness.Configuration.EmailConfiguration®
+«
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.csD (V
+
+%3void"IAlbumViewerBusiness.Configuration.EmailConfiguration.EmailConfiguration()*<
+:
+%24AlbumViewerBusiness.Configuration.EmailConfiguration¡
+ž
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs (Y:
+%44AlbumViewerBusiness.Configuration.EmailConfiguration"LAlbumViewerBusiness.Configuration.ApplicationConfiguration.EmailSettings.set*><
+:AlbumViewerBusiness.Configuration.ApplicationConfiguration*<
+:
+%24AlbumViewerBusiness.Configuration.EmailConfiguration‹ˆ
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs; (S:
+%54AlbumViewerBusiness.Configuration.TokenConfiguration"4AlbumViewerBusiness.Configuration.TokenConfiguration®
+«
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs? (Q
+
+%6void"IAlbumViewerBusiness.Configuration.TokenConfiguration.TokenConfiguration()*<
+:
+%54AlbumViewerBusiness.Configuration.TokenConfigurationœ
+™
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs (T:
+%74AlbumViewerBusiness.Configuration.TokenConfiguration"GAlbumViewerBusiness.Configuration.ApplicationConfiguration.JwtToken.set*><
+:AlbumViewerBusiness.Configuration.ApplicationConfiguration*<
+:
+%54AlbumViewerBusiness.Configuration.TokenConfiguration"«
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Configuration\ApplicationConfiguration.cs (
+implicit returnB><
+:AlbumViewerBusiness.Configuration.ApplicationConfiguration

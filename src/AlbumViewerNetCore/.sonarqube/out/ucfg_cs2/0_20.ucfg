@@ -1,0 +1,25 @@
+
+[AlbumViewerBusiness.AlbumRepository.AlbumRepository(AlbumViewerBusiness.AlbumViewerContext){
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs ("1*…
+1{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (*
+0*ÿ
+0{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (÷
+ô
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs (
+
+%0void"iWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.EntityFrameworkRepository(TContext)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*3
+1
+context&AlbumViewerBusiness.AlbumViewerContext*
+2*•
+2{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs ("’
+{
+qD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AlbumRepository.cs
+ (
+implicit return:1
+context&AlbumViewerBusiness.AlbumViewerContextB'%
+#AlbumViewerBusiness.AlbumRepository

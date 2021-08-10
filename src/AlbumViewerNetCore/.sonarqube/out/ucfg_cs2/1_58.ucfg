@@ -1,0 +1,50 @@
+
+0AlbumViewerAspNetCore.AccountController.Logout()ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csY Y("4*û
+0ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs^ ^(-›
+˜
+ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs^ ^(,
+%0&System.Security.Claims.ClaimsPrincipal"0Microsoft.AspNetCore.Mvc.ControllerBase.User.get*+)
+'Microsoft.AspNetCore.Mvc.ControllerBase¬©
+ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs^ ^()
+%1#System.Security.Principal.IIdentity"3System.Security.Claims.ClaimsPrincipal.Identity.get*.
+,
+%0&System.Security.Claims.ClaimsPrincipal2Identity.get•’
+ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs^ ^(-
+
+%2bool"7System.Security.Principal.IIdentity.IsAuthenticated.get*+
+)
+%1#System.Security.Principal.IIdentity2IsAuthenticated.get*
+1
+2*”
+1ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs_ _(þ
+û
+ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.cs_ _(
+
+%3void"5AlbumViewerAspNetCore.AccountController.ExpireToken()*+)
+'AlbumViewerAspNetCore.AccountController*
+2*¤
+2ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csa a("“
+ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csa a(
+""*±
+3ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csb	 b(	" 
+ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csb b(	
+implicit return*¸
+4ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csY Y(¢
+Ÿ
+ˆ
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csY Y(
+%4"__entrypoint*
+0B+)
+'AlbumViewerAspNetCore.AccountController

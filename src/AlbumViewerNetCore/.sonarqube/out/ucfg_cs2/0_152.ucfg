@@ -1,0 +1,46 @@
+
+`Westwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Delete(object, bool, bool)¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.csª ª(""0*ª
+0¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¬ ­(Z÷
+ô
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¬ ¬("2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"OWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.DbSet.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>×Ô
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¬ ¬(+
+%1TEntity"BMicrosoft.EntityFrameworkCore.DbSet<TEntity>.Find(params object[])*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+idobject2Find(params object[])Ñ
+Î
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¬ ¬(+
+entityTEntity"__id*
+
+%1TEntity£ 
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs­ ­([
+
+%2bool"aWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Delete(TEntity, bool, bool)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+entityTEntity*
+""*
+""2Delete(TEntity, bool, bool)"²
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs­ ­(\
+
+
+%2bool*ã
+1¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs®	 ®(	"¹
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs® ®(	
+implicit return:
+idobject:
+saveChangesbool:
+useTransactionboolBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

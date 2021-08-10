@@ -1,0 +1,21 @@
+ú
+.AlbumViewerAspNetCore.AlbumViewerApiController#Microsoft.AspNetCore.Mvc.Controller'Microsoft.AspNetCore.Mvc.ControllerBaseobjectó
+ßAlbumViewerApiController(AlbumViewerBusiness.AlbumViewerContext, System.IServiceProvider, AlbumViewerBusiness.ArtistRepository, AlbumViewerBusiness.AlbumRepository, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.Logging.ILogger<AlbumViewerAspNetCore.AlbumViewerApiController>, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)ŽAlbumViewerAspNetCore.AlbumViewerApiController.AlbumViewerApiController(AlbumViewerBusiness.AlbumViewerContext, System.IServiceProvider, AlbumViewerBusiness.ArtistRepository, AlbumViewerBusiness.AlbumRepository, Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.Logging.ILogger<AlbumViewerAspNetCore.AlbumViewerApiController>, Microsoft.AspNetCore.Hosting.IWebHostEnvironment)A
+Throw()6AlbumViewerAspNetCore.AlbumViewerApiController.Throw()Y
+GetAlbums(int, int)BAlbumViewerAspNetCore.AlbumViewerApiController.GetAlbums(int, int)m
+GetAlbumByTitleUnsafe(string)LAlbumViewerAspNetCore.AlbumViewerApiController.GetAlbumByTitleUnsafe(string)i
+GetAlbumByTitleSafe(string)JAlbumViewerAspNetCore.AlbumViewerApiController.GetAlbumByTitleSafe(string)‹
+,InsertTrackUnsafe(AlbumViewerBusiness.Track)[AlbumViewerAspNetCore.AlbumViewerApiController.InsertTrackUnsafe(AlbumViewerBusiness.Track)M
+GetAlbum(int)<AlbumViewerAspNetCore.AlbumViewerApiController.GetAlbum(int)a
+GetAlbumByTitle(string)FAlbumViewerAspNetCore.AlbumViewerApiController.GetAlbumByTitle(string)‡
+*InsertTrackSafe(AlbumViewerBusiness.Track)YAlbumViewerAspNetCore.AlbumViewerApiController.InsertTrackSafe(AlbumViewerBusiness.Track)g
+GetAlbumByTitleXss(string)IAlbumViewerAspNetCore.AlbumViewerApiController.GetAlbumByTitleXss(string){
+$SaveAlbum(AlbumViewerBusiness.Album)SAlbumViewerAspNetCore.AlbumViewerApiController.SaveAlbum(AlbumViewerBusiness.Album)S
+DeleteAlbum(int)?AlbumViewerAspNetCore.AlbumViewerApiController.DeleteAlbum(int)e
+DeleteAlbumByName(string)HAlbumViewerAspNetCore.AlbumViewerApiController.DeleteAlbumByName(string)K
+GetArtists();AlbumViewerAspNetCore.AlbumViewerApiController.GetArtists()I
+Artist(int):AlbumViewerAspNetCore.AlbumViewerApiController.Artist(int)
+&SaveArtist(AlbumViewerBusiness.Artist)UAlbumViewerAspNetCore.AlbumViewerApiController.SaveArtist(AlbumViewerBusiness.Artist)[
+ArtistLookup(string)CAlbumViewerAspNetCore.AlbumViewerApiController.ArtistLookup(string)U
+DeleteArtist(int)@AlbumViewerAspNetCore.AlbumViewerApiController.DeleteArtist(int)K
+ReloadData();AlbumViewerAspNetCore.AlbumViewerApiController.ReloadData()

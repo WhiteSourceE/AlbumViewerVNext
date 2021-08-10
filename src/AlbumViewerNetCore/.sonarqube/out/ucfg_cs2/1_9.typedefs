@@ -1,0 +1,10 @@
+é
+"AlbumViewerAspNetCore.ApiExceptionSystem.Exceptionobjectµ
+GApiException(string, int, Westwind.Utilities.ValidationErrorCollection)jAlbumViewerAspNetCore.ApiException.ApiException(string, int, Westwind.Utilities.ValidationErrorCollection)m
+#ApiException(System.Exception, int)FAlbumViewerAspNetCore.ApiException.ApiException(System.Exception, int)C
+StatusCode.get1AlbumViewerAspNetCore.ApiException.StatusCode.getC
+StatusCode.set1AlbumViewerAspNetCore.ApiException.StatusCode.set;
+
+Errors.get-AlbumViewerAspNetCore.ApiException.Errors.get;
+
+Errors.set-AlbumViewerAspNetCore.ApiException.Errors.set

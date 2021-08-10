@@ -1,0 +1,13 @@
+è
+AlbumViewerBusiness.Artistobject/
+Artist()#AlbumViewerBusiness.Artist.Artist()+
+Id.get!AlbumViewerBusiness.Artist.Id.get+
+Id.set!AlbumViewerBusiness.Artist.Id.set;
+ArtistName.get)AlbumViewerBusiness.Artist.ArtistName.get;
+ArtistName.set)AlbumViewerBusiness.Artist.ArtistName.set=
+Description.get*AlbumViewerBusiness.Artist.Description.get=
+Description.set*AlbumViewerBusiness.Artist.Description.set7
+ImageUrl.get'AlbumViewerBusiness.Artist.ImageUrl.get7
+ImageUrl.set'AlbumViewerBusiness.Artist.ImageUrl.set9
+AmazonUrl.get(AlbumViewerBusiness.Artist.AmazonUrl.get9
+AmazonUrl.set(AlbumViewerBusiness.Artist.AmazonUrl.set

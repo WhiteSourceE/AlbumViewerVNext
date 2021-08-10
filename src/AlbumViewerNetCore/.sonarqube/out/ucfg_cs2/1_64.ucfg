@@ -1,0 +1,81 @@
+
+LAlbumViewerAspNetCore.AlbumViewerApiController.GetAlbumByTitleUnsafe(string)ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csM M(*"2*√
+0ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csO P(≥
+∞
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csO O(&,
+%0&AlbumViewerBusiness.AlbumViewerContext"__id*g*e0
+.AlbumViewerAspNetCore.AlbumViewerApiController"1
+context&AlbumViewerBusiness.AlbumViewerContext≠
+™
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csO O(-2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1AlbumViewerBusiness.AlbumViewerContext.Albums.get*.
+,
+%0&AlbumViewerBusiness.AlbumViewerContextÍ
+Á
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csO9 O(f
+%2string"__concat*'%
+#SELECT * FROM Albums Where Title = *
+
+titlestringﬂ
+‹
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csO O(g
+%3System.Linq.IQueryable<T>"ñMicrosoft.EntityFrameworkCore.RelationalQueryableExtensions.FromSqlRaw<TEntity>(Microsoft.EntityFrameworkCore.DbSet<TEntity>, string, params object[])*?"=
+;Microsoft.EntityFrameworkCore.RelationalQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+
+%2string*
+""≈
+¬
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csO O(x
+%4AlbumViewerBusiness.Album"NSystem.Linq.Queryable.FirstOrDefault<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*!
+
+%3System.Linq.IQueryable<T>Í
+Á
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csO O(x)
+albumByTitleAlbumViewerBusiness.Album"__id*!
+
+%4AlbumViewerBusiness.Album"¿
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csP P( +
+)
+albumByTitleAlbumViewerBusiness.Album*¡
+1ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csQ	 Q(	"®
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csQ Q(	
+implicit return*°
+2ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csM8 M(8Ω
+∫
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csM M(*
+%5"__entrypoint*
+
+titlestringÉ
+Ä
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csL	 L(2
+%6"
+__annotate*FD
+BMicrosoft.AspNetCore.Mvc.HttpGetAttribute.HttpGetAttribute(string)*
+
+titlestringΩ
+∫
+ê
+ÖD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AlbumViewerApiController.csM+ M(7
+titlestring"__annotation*
+
+%6*
+0:
+titlestringB20
+.AlbumViewerAspNetCore.AlbumViewerApiController

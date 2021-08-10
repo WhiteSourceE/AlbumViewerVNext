@@ -1,0 +1,13 @@
+å
+4AlbumViewerBusiness.Configuration.TokenConfigurationobjecta
+TokenConfiguration()IAlbumViewerBusiness.Configuration.TokenConfiguration.TokenConfiguration()M
+
+Issuer.get?AlbumViewerBusiness.Configuration.TokenConfiguration.Issuer.getM
+
+Issuer.set?AlbumViewerBusiness.Configuration.TokenConfiguration.Issuer.setQ
+Audience.getAAlbumViewerBusiness.Configuration.TokenConfiguration.Audience.getQ
+Audience.setAAlbumViewerBusiness.Configuration.TokenConfiguration.Audience.setU
+SigningKey.getCAlbumViewerBusiness.Configuration.TokenConfiguration.SigningKey.getU
+SigningKey.setCAlbumViewerBusiness.Configuration.TokenConfiguration.SigningKey.setg
+TokenTimeoutMinutes.getLAlbumViewerBusiness.Configuration.TokenConfiguration.TokenTimeoutMinutes.getg
+TokenTimeoutMinutes.setLAlbumViewerBusiness.Configuration.TokenConfiguration.TokenTimeoutMinutes.set

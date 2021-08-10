@@ -1,0 +1,354 @@
+
+gAlbumViewerAspNetCore.ApiExceptionFilter.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (("0* 
+0ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (1ÿ
+’
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs ($*
+apiErrorAlbumViewerAspNetCore.ApiError"__id*
+""∆√
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (!
+%0System.Exception"?Microsoft.AspNetCore.Mvc.Filters.ExceptionContext.Exception.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext2Exception.get*
+1
+2*Ω*
+1ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs $(P∆√
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (*
+%1System.Exception"?Microsoft.AspNetCore.Mvc.Filters.ExceptionContext.Exception.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext2Exception.get÷
+”
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (:
+%2System.Exception"__id*
+
+%1System.ExceptionË
+Â
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (:(
+ex"AlbumViewerAspNetCore.ApiException"__id*
+
+%2System.ExceptionŒÀ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs ((
+%3System.Exception"?Microsoft.AspNetCore.Mvc.Filters.ExceptionContext.Exception.set*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext*
+""2Exception.setÉÄ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs( (2
+%4string"System.Exception.Message.get**
+(
+ex"AlbumViewerAspNetCore.ApiException2Message.get‰·
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (3$
+%5AlbumViewerAspNetCore.ApiError"AlbumViewerAspNetCore.ApiErrorì
+ê
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs ('
+
+%6void"/AlbumViewerAspNetCore.ApiError.ApiError(string)*&
+$
+%5AlbumViewerAspNetCore.ApiError*
+
+%4string¯
+ı
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs (3*
+apiErrorAlbumViewerAspNetCore.ApiError"__id*&
+$
+%5AlbumViewerAspNetCore.ApiError≠
+™
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs "  (+2
+%7,Westwind.Utilities.ValidationErrorCollection"-AlbumViewerAspNetCore.ApiException.Errors.get**
+(
+ex"AlbumViewerAspNetCore.ApiException·
+ﬁ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs   (+2
+%8,Westwind.Utilities.ValidationErrorCollection")AlbumViewerAspNetCore.ApiError.errors.set*,
+*
+apiErrorAlbumViewerAspNetCore.ApiError*4
+2
+%7,Westwind.Utilities.ValidationErrorCollection√
+¿
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs" "(#+
+%9%Microsoft.AspNetCore.Http.HttpContext"6Microsoft.AspNetCore.Mvc.ActionContext.HttpContext.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext∞
+≠
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs" "(,-
+%10&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*-
++
+%9%Microsoft.AspNetCore.Http.HttpContextâ
+Ü
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs": "(G
+
+%11int"1AlbumViewerAspNetCore.ApiException.StatusCode.get**
+(
+ex"AlbumViewerAspNetCore.ApiException†
+ù
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs" "(G
+
+%12int"5Microsoft.AspNetCore.Http.HttpResponse.StatusCode.set*/
+-
+%10&Microsoft.AspNetCore.Http.HttpResponse*
+
+
+%11int–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs$ $(:
+%133Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*n*l*
+(AlbumViewerAspNetCore.ApiExceptionFilter">
+_Logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>ÑÅ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs$@ $(J
+%14string"System.Exception.Message.get**
+(
+ex"AlbumViewerAspNetCore.ApiException2Message.get–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs$# $(L
+%15string"__concat*
+""*
+
+%14string“
+œ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs$ $(Q
+%16void"wMicrosoft.Extensions.Logging.LoggerExtensions.LogWarning(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*<
+:
+%133Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+
+%15string**
+(
+ex"AlbumViewerAspNetCore.ApiException*
+3*
+2ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs& &(E«ƒ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs& &(&
+%17System.Exception"?Microsoft.AspNetCore.Mvc.Filters.ExceptionContext.Exception.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext2Exception.get*
+4
+5*·
+4ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs( *(NÂ‚
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs( ((>%
+%18AlbumViewerAspNetCore.ApiError"AlbumViewerAspNetCore.ApiErrorû
+õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs( (('
+%19void"/AlbumViewerAspNetCore.ApiError.ApiError(string)*'
+%
+%18AlbumViewerAspNetCore.ApiError*
+Unauthorized Access˘
+ˆ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs( ((>*
+apiErrorAlbumViewerAspNetCore.ApiError"__id*'
+%
+%18AlbumViewerAspNetCore.ApiErrorƒ
+¡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs) )(#,
+%20%Microsoft.AspNetCore.Http.HttpContext"6Microsoft.AspNetCore.Mvc.ActionContext.HttpContext.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext±
+Æ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs) )(,-
+%21&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*.
+,
+%20%Microsoft.AspNetCore.Http.HttpContextô
+ñ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs) )(=
+
+%22int"5Microsoft.AspNetCore.Http.HttpResponse.StatusCode.set*/
+-
+%21&Microsoft.AspNetCore.Http.HttpResponse*2ë–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs* *(:
+%233Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*n*l*
+(AlbumViewerAspNetCore.ApiExceptionFilter">
+_Logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>Ã
+…
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs* *(O
+%24void"wMicrosoft.Extensions.Logging.LoggerExtensions.LogWarning(Microsoft.Extensions.Logging.ILogger, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*<
+:
+%233Microsoft.Extensions.Logging.ILogger<TCategoryName>*-+
+)Unauthorized Access in Controller Filter.*
+""*
+3*ﬁ,
+5ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs3 =(G«ƒ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs3 3(+
+%25System.Exception"?Microsoft.AspNetCore.Mvc.Filters.ExceptionContext.Exception.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext2Exception.getãà
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs3 3(>
+%26System.Exception"#System.Exception.GetBaseException()*
+
+%25System.Exception2GetBaseException()Û
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs3 3(F
+%27string"System.Exception.Message.get*
+
+%26System.Exception2Message.getƒ
+¡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs3 3(F
+msgstring"__id*
+
+%27string«ƒ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs4 4(0
+%28System.Exception"?Microsoft.AspNetCore.Mvc.Filters.ExceptionContext.Exception.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext2Exception.get˘ˆ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs4 4(;
+%29string"System.Exception.StackTrace.get*
+
+%28System.Exception2StackTrace.get∆
+√
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs4 4(;
+stackstring"__id*
+
+%29stringÂ‚
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs7 7(,%
+%30AlbumViewerAspNetCore.ApiError"AlbumViewerAspNetCore.ApiErrorñ
+ì
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs7 7('
+%31void"/AlbumViewerAspNetCore.ApiError.ApiError(string)*'
+%
+%30AlbumViewerAspNetCore.ApiError*
+
+msgstring˘
+ˆ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs7 7(,*
+apiErrorAlbumViewerAspNetCore.ApiError"__id*'
+%
+%30AlbumViewerAspNetCore.ApiErrorô
+ñ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs8 8('
+%32string")AlbumViewerAspNetCore.ApiError.detail.set*,
+*
+apiErrorAlbumViewerAspNetCore.ApiError*
+
+stackstringƒ
+¡
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs: :(#,
+%33%Microsoft.AspNetCore.Http.HttpContext"6Microsoft.AspNetCore.Mvc.ActionContext.HttpContext.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext±
+Æ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs: :(,-
+%34&Microsoft.AspNetCore.Http.HttpResponse"2Microsoft.AspNetCore.Http.HttpContext.Response.get*.
+,
+%33%Microsoft.AspNetCore.Http.HttpContextô
+ñ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs: :(=
+
+%35int"5Microsoft.AspNetCore.Http.HttpResponse.StatusCode.set*/
+-
+%34&Microsoft.AspNetCore.Http.HttpResponse*2Ù–
+Õ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs= =(:
+%363Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*n*l*
+(AlbumViewerAspNetCore.ApiExceptionFilter">
+_Logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>ÒÓ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs=! =(/+
+%37$Microsoft.Extensions.Logging.EventId"$Microsoft.Extensions.Logging.EventId°
+û
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs=% =(,
+%38void"9Microsoft.Extensions.Logging.EventId.EventId(int, string)*-
++
+%37$Microsoft.Extensions.Logging.EventId*2 *
+""«ƒ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs=1 =(B
+%39System.Exception"?Microsoft.AspNetCore.Mvc.Filters.ExceptionContext.Exception.get*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext2Exception.getØ
+¨
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.cs= =(H
+%40void"≠Microsoft.Extensions.Logging.LoggerExtensions.LogError(Microsoft.Extensions.Logging.ILogger, Microsoft.Extensions.Logging.EventId, System.Exception, string, params object[])*1"/
+-Microsoft.Extensions.Logging.LoggerExtensions*<
+:
+%363Microsoft.Extensions.Logging.ILogger<TCategoryName>*-
++
+%37$Microsoft.Extensions.Logging.EventId*
+
+%39System.Exception*
+
+msgstring*
+""*
+3*µ
+3ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.csA C($ÔÏ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.csA A(5*
+%41#Microsoft.AspNetCore.Mvc.JsonResult"#Microsoft.AspNetCore.Mvc.JsonResultø
+º
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.csA! A(+
+%42void"6Microsoft.AspNetCore.Mvc.JsonResult.JsonResult(object)*,
+*
+%41#Microsoft.AspNetCore.Mvc.JsonResult*,
+*
+apiErrorAlbumViewerAspNetCore.ApiErrorÖÇ
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.csA A(5-
+%43&Microsoft.AspNetCore.Mvc.IActionResult"<Microsoft.AspNetCore.Mvc.Filters.ExceptionContext.Result.set*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext*,
+*
+%41#Microsoft.AspNetCore.Mvc.JsonResult2
+Result.set”–
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.csC C(%
+%44void"xMicrosoft.AspNetCore.Mvc.Filters.ExceptionFilterAttribute.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)*,*
+(AlbumViewerAspNetCore.ApiExceptionFilter*>
+<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContext2>OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)*
+6*—
+6ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.csD	 D(	"∞
+ò
+çD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiExceptionFilter.csD D(	
+implicit return:<
+context1Microsoft.AspNetCore.Mvc.Filters.ExceptionContextB,*
+(AlbumViewerAspNetCore.ApiExceptionFilter

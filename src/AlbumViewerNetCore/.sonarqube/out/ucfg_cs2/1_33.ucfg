@@ -1,0 +1,33 @@
+
+IAlbumViewerNetCore.Controllers.ConfigurationController.GetConfiguration()è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs(( ((8"2*†
+0è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs* *()÷
+”
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs* *(#5
+%0/Microsoft.Extensions.Options.IOptions<TOptions>"__id*Å*8
+6AlbumViewerNetCore.Controllers.ConfigurationController"C
+AppConfiguration/Microsoft.Extensions.Options.IOptions<TOptions>÷”
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs* *()@
+%1:AlbumViewerBusiness.Configuration.ApplicationConfiguration"9Microsoft.Extensions.Options.IOptions<TOptions>.Value.get*7
+5
+%0/Microsoft.Extensions.Options.IOptions<TOptions>2	Value.get"÷
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs* *(*B
+@
+%1:AlbumViewerBusiness.Configuration.ApplicationConfiguration*ø
+1è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs+	 +(	"ß
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs+ +(	
+implicit return*∆
+2è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs(: ((:©
+¶
+è
+ÑD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ConfigurationController.cs(( ((8
+%2"__entrypoint*
+0B:8
+6AlbumViewerNetCore.Controllers.ConfigurationController

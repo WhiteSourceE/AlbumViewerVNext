@@ -1,0 +1,48 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/AlbumViewerNetCore",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "http://localhost:26448/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "AlbumViewerNetCore": {
+      "commandName": "Project",
+      "launchBrowser": true,
+        "launchUrl": "https://localhost:5001",
+      
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "ancmHostingModel": "InProcess"
+    },
+      "AlbumViewerNetCore-Production": {
+          "commandName": "Project",
+          "launchBrowser": true,
+          "launchUrl": "http://localhost:5000",
+          "environmentVariables": {
+              "ASPNETCORE_ENVIRONMENT": "Production"
+          },
+          "ancmHostingModel": "InProcess"
+      },
+    "web": {
+      "commandName": "web",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

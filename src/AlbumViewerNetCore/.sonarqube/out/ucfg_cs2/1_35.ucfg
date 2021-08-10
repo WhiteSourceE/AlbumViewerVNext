@@ -1,0 +1,36 @@
+
+9AlbumViewerNetCore.Program.CreateWebHostBuilder(string[])r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs& (:"0*Ò	
+0r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (ž
+›
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (<2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilder";Microsoft.AspNetCore.WebHost.CreateDefaultBuilder(string[])* "
+Microsoft.AspNetCore.WebHost*
+
+argsstring[]–
+“
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (&2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder"xMicrosoft.AspNetCore.Hosting.WebHostBuilderExtensions.UseStartup<TStartup>(Microsoft.AspNetCore.Hosting.IWebHostBuilder)*9"7
+5Microsoft.AspNetCore.Hosting.WebHostBuilderExtensions*4
+2
+%0,Microsoft.AspNetCore.Hosting.IWebHostBuilderì
+é
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (&7
+builder,Microsoft.AspNetCore.Hosting.IWebHostBuilder"__id*4
+2
+%1,Microsoft.AspNetCore.Hosting.IWebHostBuilder"¯
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs (9
+7
+builder,Microsoft.AspNetCore.Hosting.IWebHostBuilder*ƒ
+1r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs!	 !(	"‰
+r
+hD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Program.cs! !(	
+implicit return:
+argsstring[]B"
+AlbumViewerNetCore.Program

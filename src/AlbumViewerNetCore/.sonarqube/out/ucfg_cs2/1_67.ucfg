@@ -1,0 +1,237 @@
+
+EAlbumViewerNetCore.SqlUtil.InsertTrackSafe(AlbumViewerBusiness.Track)w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs ("0*∂
+
+0w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs
+ (Mß
+§
+x
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs
+ (û
+insertQuerystring"__id*äá
+ÑINSERT INTO Tracks (Id, AlbumId, SongName, Length, Bytes, UnitPrice) VALUES (NULL, @AlbumId, @SongName, @Length, @Bytes, @UnitPrice)Œ
+À
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs= (M
+%0string"__id*<*:
+AlbumViewerNetCore.SqlUtil"
+connectionStringstringÃ…
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs( (N)
+%1#System.Data.SQLite.SQLiteConnection"#System.Data.SQLite.SQLiteConnectionÉ
+Ä
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs, (<
+
+%2void"<System.Data.SQLite.SQLiteConnection.SQLiteConnection(string)*+
+)
+%1#System.Data.SQLite.SQLiteConnection*
+
+%0string‚
+ﬂ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (N1
+
+connection#System.Data.SQLite.SQLiteConnection"__id*+
+)
+%1#System.Data.SQLite.SQLiteConnection*
+1*ï'
+1w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs! '(A∆√
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs! !(F&
+%3 System.Data.SQLite.SQLiteCommand" System.Data.SQLite.SQLiteCommand›
+⁄
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs!  !(-
+
+%4void"[System.Data.SQLite.SQLiteCommand.SQLiteCommand(string, System.Data.SQLite.SQLiteConnection)*(
+&
+%3 System.Data.SQLite.SQLiteCommand*
+
+insertQuerystring*3
+1
+
+connection#System.Data.SQLite.SQLiteConnectionŸ
+÷
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs! !(F+
+command System.Data.SQLite.SQLiteCommand"__id*(
+&
+%3 System.Data.SQLite.SQLiteCommandê
+ç
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs# #(2
+%5,System.Data.SQLite.SQLiteParameterCollection"/System.Data.SQLite.SQLiteCommand.Parameters.get*-
++
+command System.Data.SQLite.SQLiteCommand‘
+—
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs#0 #(=	
+%6int"%AlbumViewerBusiness.Track.AlbumId.get*$
+"
+trackAlbumViewerBusiness.Track¬
+ø
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs# #(>(
+%7"System.Data.SQLite.SQLiteParameter"ISystem.Data.SQLite.SQLiteParameterCollection.AddWithValue(string, object)*4
+2
+%5,System.Data.SQLite.SQLiteParameterCollection*
+
+@AlbumId*
+	
+%6intê
+ç
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs$ $(2
+%8,System.Data.SQLite.SQLiteParameterCollection"/System.Data.SQLite.SQLiteCommand.Parameters.get*-
++
+command System.Data.SQLite.SQLiteCommandÿ
+’
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs$1 $(?
+%9string"&AlbumViewerBusiness.Track.SongName.get*$
+"
+trackAlbumViewerBusiness.Track«
+ƒ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs$ $(@)
+%10"System.Data.SQLite.SQLiteParameter"ISystem.Data.SQLite.SQLiteParameterCollection.AddWithValue(string, object)*4
+2
+%8,System.Data.SQLite.SQLiteParameterCollection*
+	@SongName*
+
+%9stringë
+é
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs% %(3
+%11,System.Data.SQLite.SQLiteParameterCollection"/System.Data.SQLite.SQLiteCommand.Parameters.get*-
++
+command System.Data.SQLite.SQLiteCommand◊
+‘
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs%/ %(;
+%12string"$AlbumViewerBusiness.Track.Length.get*$
+"
+trackAlbumViewerBusiness.Track«
+ƒ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs% %(<)
+%13"System.Data.SQLite.SQLiteParameter"ISystem.Data.SQLite.SQLiteParameterCollection.AddWithValue(string, object)*5
+3
+%11,System.Data.SQLite.SQLiteParameterCollection*	
+@Length*
+
+%12stringë
+é
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs& &(3
+%14,System.Data.SQLite.SQLiteParameterCollection"/System.Data.SQLite.SQLiteCommand.Parameters.get*-
++
+command System.Data.SQLite.SQLiteCommand”
+–
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs&. &(9
+
+%15int"#AlbumViewerBusiness.Track.Bytes.get*$
+"
+trackAlbumViewerBusiness.Track√
+¿
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs& &(:)
+%16"System.Data.SQLite.SQLiteParameter"ISystem.Data.SQLite.SQLiteParameterCollection.AddWithValue(string, object)*5
+3
+%14,System.Data.SQLite.SQLiteParameterCollection*
+
+@Bytes*
+
+
+%15intë
+é
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs' '(3
+%17,System.Data.SQLite.SQLiteParameterCollection"/System.Data.SQLite.SQLiteCommand.Parameters.get*-
++
+command System.Data.SQLite.SQLiteCommand€
+ÿ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs'2 '(A
+%18decimal"'AlbumViewerBusiness.Track.UnitPrice.get*$
+"
+trackAlbumViewerBusiness.TrackÀ
+»
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs' '(B)
+%19"System.Data.SQLite.SQLiteParameter"ISystem.Data.SQLite.SQLiteParameterCollection.AddWithValue(string, object)*5
+3
+%17,System.Data.SQLite.SQLiteParameterCollection*
+
+@UnitPrice*
+
+%18decimal*
+2*Ñ
+
+2w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs+ -(8à
+Ö
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs+ +(*
+%20#System.Data.SQLite.SQLiteConnection"/System.Data.SQLite.SQLiteCommand.Connection.get*-
++
+command System.Data.SQLite.SQLiteCommand„
+‡
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs+ +(
+%21void"*System.Data.SQLite.SQLiteConnection.Open()*,
+*
+%20#System.Data.SQLite.SQLiteConnectionÎ
+Ë
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs, ,(3
+
+%22int"2System.Data.SQLite.SQLiteCommand.ExecuteNonQuery()*-
++
+command System.Data.SQLite.SQLiteCommand•
+¢
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs, ,(3
+rowsAffectedint"__id*
+
+
+%22intˆ
+Û
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs- -(9
+%23void")System.Console.WriteLine(string, object?)*"
+System.Console*
+RowsAffected: {0}*
+
+rowsAffectedint*
+3
+4*®
+3w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs1 1(!–Õ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs1 1(!
+%24string"System.Exception.Message.get*
+
+exSystem.Exception2Message.get—
+Œ
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs1 1("
+%25void"!System.Console.WriteLine(string?)*"
+System.Console*
+
+%24string*
+4*Å
+4w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs4 4(*
+5*ç
+5w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs4 4("é
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs4 4(
+implicit return:"
+trackAlbumViewerBusiness.TrackB
+AlbumViewerNetCore.SqlUtil

@@ -1,0 +1,21 @@
+
+UWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Load<T>(object)¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¤% ¤()"0*÷
+0¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¨ ¨('ž›
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¨ ¨((*
+%0$System.Threading.Tasks.Task<TResult>"YWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.LoadBase<T>(object)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+idobject2LoadBase<T>(object)"¬
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs¨ ¨()
+""*ã
+1¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs©	 ©(	"¹
+¡
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs© ©(	
+implicit return:
+idobjectBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

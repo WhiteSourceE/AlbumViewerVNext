@@ -1,0 +1,11 @@
+Á
+:AlbumViewerBusiness.Configuration.ApplicationConfigurationobjects
+ApplicationConfiguration()UAlbumViewerBusiness.Configuration.ApplicationConfiguration.ApplicationConfiguration()e
+ApplicationName.getNAlbumViewerBusiness.Configuration.ApplicationConfiguration.ApplicationName.gete
+ApplicationName.setNAlbumViewerBusiness.Configuration.ApplicationConfiguration.ApplicationName.set_
+MaxListItems.getKAlbumViewerBusiness.Configuration.ApplicationConfiguration.MaxListItems.get_
+MaxListItems.setKAlbumViewerBusiness.Configuration.ApplicationConfiguration.MaxListItems.seta
+EmailSettings.getLAlbumViewerBusiness.Configuration.ApplicationConfiguration.EmailSettings.geta
+EmailSettings.setLAlbumViewerBusiness.Configuration.ApplicationConfiguration.EmailSettings.setW
+JwtToken.getGAlbumViewerBusiness.Configuration.ApplicationConfiguration.JwtToken.getW
+JwtToken.setGAlbumViewerBusiness.Configuration.ApplicationConfiguration.JwtToken.set

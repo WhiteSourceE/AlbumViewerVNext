@@ -1,0 +1,57 @@
+
+$AlbumViewerNetCore.SqlUtil.SqlUtil()w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs	 ("1* 
+1w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (∆
+√
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs
+	 
+( :
+AlbumViewerNetCore.SqlUtil"
+connectionStringstring"__id*
+""*
+0*å	
+0x
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (ÉŒ
+À
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs9 (X
+%0string")System.IO.Directory.GetCurrentDirectory()*"
+System.IO.DirectoryÚ
+Ô
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs, (s
+%1string"&System.IO.Path.Combine(string, string)*"
+System.IO.Path*
+
+%0string*
+AlbumViewerData.sqlite∂
+≥
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (s
+%2string"__concat*
+Data Source=*
+
+%1string∂
+≥
+x
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (É
+%3string"__concat*
+
+%2string*
+;Version=3;œ
+Ã
+x
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (É:
+AlbumViewerNetCore.SqlUtil"
+connectionStringstring"__id*
+
+%3string*
+2*ç
+2w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs ("é
+w
+mD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Util\SqlUtil.cs (
+implicit returnB
+AlbumViewerNetCore.SqlUtil

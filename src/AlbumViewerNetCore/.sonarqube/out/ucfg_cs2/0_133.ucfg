@@ -1,0 +1,66 @@
+
+BAlbumViewerBusiness.AccountRepository.Authenticate(string, string)}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs  (,"0*õ
+0}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs (¸
+µ
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs ()
+hashedPasswordstring"__id*
+
+passwordstringÎ
+Ë
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs ($,
+%0&AlbumViewerBusiness.AlbumViewerContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>˜
+•
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs (*2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"0AlbumViewerBusiness.AlbumViewerContext.Users.get*.
+,
+%0&AlbumViewerBusiness.AlbumViewerContextŸ
+œ
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs (;*
+%2$System.Threading.Tasks.Task<TResult>"âMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+""²
+¯
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs (; 
+userAlbumViewerBusiness.User"__id*
+""ê
+ç
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs (
+
+%3bool""object.operator ==(object, object)*
+"
+object*"
+ 
+userAlbumViewerBusiness.User*
+""*
+1
+2*Œ
+1}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs ("‡
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs (
+""*Œ
+2}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs! !("‡
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs! !(
+""*™
+3}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs"	 "(	"”
+}
+sD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\AccountRepository.cs" "(	
+implicit return:
+usernamestring:
+passwordstringB)'
+%AlbumViewerBusiness.AccountRepository

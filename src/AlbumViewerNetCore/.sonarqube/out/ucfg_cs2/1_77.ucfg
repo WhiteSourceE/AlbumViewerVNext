@@ -1,0 +1,99 @@
+
+=AlbumViewerAspNetCore.AccountController.RemoveExpiredTokens()ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÅ Å(("0*î
+0ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÑ Ü(1ÿ
+’
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÑ Ñ($
+%0System.DateTime"System.DateTime.UtcNow.get*"
+System.DateTime“
+œ
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÑ0 Ñ(A@
+%1:AlbumViewerBusiness.Configuration.ApplicationConfiguration"__id*x*v'
+%AlbumViewerBusiness.Configuration.App"K
+Configuration:AlbumViewerBusiness.Configuration.ApplicationConfigurationŸ
+÷
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÑ0 Ñ(J:
+%24AlbumViewerBusiness.Configuration.TokenConfiguration"GAlbumViewerBusiness.Configuration.ApplicationConfiguration.JwtToken.get*B
+@
+%1:AlbumViewerBusiness.Configuration.ApplicationConfigurationß
+§
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÑ0 Ñ(^	
+%3int"LAlbumViewerBusiness.Configuration.TokenConfiguration.TokenTimeoutMinutes.get*<
+:
+%24AlbumViewerBusiness.Configuration.TokenConfigurationÒ
+Ó
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÑ Ñ(_
+%4System.DateTime""System.DateTime.AddMinutes(double)*
+
+%0System.DateTime*
+	
+%3int∆
+√
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÑ Ñ(_
+dtSystem.DateTime"__id*
+
+%4System.DateTime»
+≈
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÖ$ Ö(39
+%53System.Collections.Generic.Dictionary<TKey, TValue>"__id*u*s)
+'AlbumViewerAspNetCore.AccountController"F
+cancelledTokens3System.Collections.Generic.Dictionary<TKey, TValue>ñ
+ì
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÖ$ Ö(N/
+%6)System.Collections.Generic.IEnumerable<T>"rSystem.Linq.Enumerable.Where<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*;
+9
+%53System.Collections.Generic.Dictionary<TKey, TValue>*
+""ô
+ñ
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÖ$ Ö(c/
+%7)System.Collections.Generic.IEnumerable<T>"System.Linq.Enumerable.Select<TSource, TResult>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, TResult>)*"
+System.Linq.Enumerable*1
+/
+%6)System.Collections.Generic.IEnumerable<T>*
+""â
+Ü
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csÖ Ö(c>
+cancelledTokenIds)System.Collections.Generic.IEnumerable<T>"__id*1
+/
+%7)System.Collections.Generic.IEnumerable<T>*
+1*ò
+1ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csà	 à(	*
+2
+3*⁄
+2ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csá á(*»
+≈
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csá á(9
+%83System.Collections.Generic.Dictionary<TKey, TValue>"__id*u*s)
+'AlbumViewerAspNetCore.AccountController"F
+cancelledTokens3System.Collections.Generic.Dictionary<TKey, TValue>˜
+Ù
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csá á(+
+
+%9bool"__mapRemove*;
+9
+%83System.Collections.Generic.Dictionary<TKey, TValue>*
+
+keystring*
+1*µ
+3ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csà	 à(	"¢
+ä
+~D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\AccountController.csà à(	
+implicit returnB+)
+'AlbumViewerAspNetCore.AccountController

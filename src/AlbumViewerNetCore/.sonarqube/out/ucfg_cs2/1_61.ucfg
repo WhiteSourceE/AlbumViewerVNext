@@ -1,0 +1,59 @@
+
+cAlbumViewerAspNetCore.ApiError.ApiError(Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary)Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs ("1*™
+1Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs&	 &(	*
+0*¾
+0Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs ("ø
+õ
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs (
+
+%0bool"*AlbumViewerAspNetCore.ApiError.isError.set*" 
+AlbumViewerAspNetCore.ApiError*
+""¤
+¡
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs ("
+
+%1bool""object.operator !=(object, object)*
+"
+object*J
+H
+
+modelState:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
+""*
+2
+3*¡
+2Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs& (R‚
+ÿ
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs& (S
+
+%2bool"pSystem.Linq.Enumerable.Any<TSource>(System.Collections.Generic.IEnumerable<TSource>, System.Func<TSource, bool>)*"
+System.Linq.Enumerable*J
+H
+
+modelState:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary*
+""*
+4
+3*Æ
+4Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs! !(Nª
+§
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs! !(N
+%3string"*AlbumViewerAspNetCore.ApiError.message.set*" 
+AlbumViewerAspNetCore.ApiError*64
+2Please correct the specified errors and try again.*
+3*½
+3Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs&	 &(	"¦
+Ž
+ƒD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerNetCore\Controllers\ErrorHandling\ApiError.cs& &(	
+implicit return:H
+
+modelState:Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionaryB" 
+AlbumViewerAspNetCore.ApiError

@@ -1,0 +1,195 @@
+
+6AlbumViewerBusiness.ArtistRepository.DeleteArtist(int)|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csJ J(("0*‡
+0|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csL Q(ü
+ú
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csL L(
+resultbool"__id*
+""Õ
+ 
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csN N(",
+%0&AlbumViewerBusiness.AlbumViewerContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ô
+ñ
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csN N(*2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>"2AlbumViewerBusiness.AlbumViewerContext.Artists.get*.
+,
+%0&AlbumViewerBusiness.AlbumViewerContextû
+õ
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csN N(S*
+%2$System.Threading.Tasks.Task<TResult>"‚Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*4
+2
+%1,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""*
+""µ
+≤
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csN N(S$
+artistAlbumViewerBusiness.Artist"__id*
+""Ì
+Í
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csQ Q(
+
+%3bool""object.operator ==(object, object)*
+"
+object*&
+$
+artistAlbumViewerBusiness.Artist*
+""*
+1
+2*ä
+1|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csR R("Ü
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csR R(
+""*“
+2|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csT X((Õ
+ 
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csT T($,
+%4&AlbumViewerBusiness.AlbumViewerContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>ò
+ï
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csT T(+2
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1AlbumViewerBusiness.AlbumViewerContext.Albums.get*.
+,
+%4&AlbumViewerBusiness.AlbumViewerContextÉ
+Ä
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csT T(L
+%6System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)*"
+System.Linq.Queryable*4
+2
+%5,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+""˝
+˙
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csT T(b
+%7System.Linq.IQueryable<T>"íSystem.Linq.Queryable.Select<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, TResult>>)*"
+System.Linq.Queryable*!
+
+%6System.Linq.IQueryable<T>*
+""ª
+∏
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csT T(p*
+%8$System.Threading.Tasks.Task<TResult>"öMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)*D"B
+@Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions*!
+
+%7System.Linq.IQueryable<T>*
+""ø
+º
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csT T(p.
+albumIds"System.Collections.Generic.List<T>"__id*
+""Õ
+ 
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csV, V(3,
+%9&AlbumViewerBusiness.AlbumViewerContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>“œ
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csV V(4*
+%10#AlbumViewerBusiness.AlbumRepository"#AlbumViewerBusiness.AlbumRepository…
+∆
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csV V(+
+%11void"[AlbumViewerBusiness.AlbumRepository.AlbumRepository(AlbumViewerBusiness.AlbumViewerContext)*,
+*
+%10#AlbumViewerBusiness.AlbumRepository*.
+,
+%9&AlbumViewerBusiness.AlbumViewerContextÁ
+‰
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csV V(40
+	albumRepo#AlbumViewerBusiness.AlbumRepository"__id*,
+*
+%10#AlbumViewerBusiness.AlbumRepository*
+3*â
+3|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csf f(*
+4
+5*Ê
+4|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs[ \(∏
+µ
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs[ [(M+
+%12$System.Threading.Tasks.Task<TResult>":AlbumViewerBusiness.AlbumRepository.DeleteAlbum(int, bool)*2
+0
+	albumRepo#AlbumViewerBusiness.AlbumRepository*
+
+albumIdint*
+""ü
+ú
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs[ [(M
+resultbool"__id*
+""*
+6
+3*ä
+6|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs] ]("Ü
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs] ](
+""*Ù
+5|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs_ b(Œ
+À
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs_ _(-
+%13&AlbumViewerBusiness.AlbumViewerContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.get*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>õ
+ò
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs_ _(3
+%14,Microsoft.EntityFrameworkCore.DbSet<TEntity>"2AlbumViewerBusiness.AlbumViewerContext.Artists.get*/
+-
+%13&AlbumViewerBusiness.AlbumViewerContext˘ˆ
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs_ _(&H
+%15AMicrosoft.EntityFrameworkCore.ChangeTracking.EntityEntry<TEntity>"<Microsoft.EntityFrameworkCore.DbSet<TEntity>.Remove(TEntity)*5
+3
+%14,Microsoft.EntityFrameworkCore.DbSet<TEntity>*&
+$
+artistAlbumViewerBusiness.Artist2Remove(TEntity)€
+ÿ
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs` `("+
+%16$System.Threading.Tasks.Task<TResult>"XWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.SaveAsync(TEntity)*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+""ü
+ú
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cs` `("
+resultbool"__id*
+""*
+7
+8*ä
+7|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csc c("Ü
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csc c(
+""*î
+8|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cse e("ê
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.cse e(
+
+resultbool*ó
+9|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csf f("ì
+|
+rD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\ArtistRepository.csf f(
+implicit return:	
+idintB(&
+$AlbumViewerBusiness.ArtistRepository

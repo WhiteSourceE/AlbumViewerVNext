@@ -1,0 +1,20 @@
+ï
+AlbumViewerBusiness.Trackobjectt
++BuildInsertQuery(AlbumViewerBusiness.Track)EAlbumViewerBusiness.Track.BuildInsertQuery(AlbumViewerBusiness.Track)2
+
+ToString()$AlbumViewerBusiness.Track.ToString(),
+Track()!AlbumViewerBusiness.Track.Track()*
+Id.get AlbumViewerBusiness.Track.Id.get*
+Id.set AlbumViewerBusiness.Track.Id.set4
+AlbumId.get%AlbumViewerBusiness.Track.AlbumId.get4
+AlbumId.set%AlbumViewerBusiness.Track.AlbumId.set6
+SongName.get&AlbumViewerBusiness.Track.SongName.get6
+SongName.set&AlbumViewerBusiness.Track.SongName.set2
+
+Length.get$AlbumViewerBusiness.Track.Length.get2
+
+Length.set$AlbumViewerBusiness.Track.Length.set0
+	Bytes.get#AlbumViewerBusiness.Track.Bytes.get0
+	Bytes.set#AlbumViewerBusiness.Track.Bytes.set8
+UnitPrice.get'AlbumViewerBusiness.Track.UnitPrice.get8
+UnitPrice.set'AlbumViewerBusiness.Track.UnitPrice.set

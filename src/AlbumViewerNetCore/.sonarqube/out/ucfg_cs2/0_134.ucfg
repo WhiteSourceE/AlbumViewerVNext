@@ -1,0 +1,115 @@
+
+kAlbumViewerBusiness.AlbumViewerDataImporter.EnsureAlbumData(AlbumViewerBusiness.AlbumViewerContext, string)“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (*"0*Ù
+0“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs ( ¸
+µ
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs ( 
+hasDatabool"__id*
+""*
+1*Ø
+1“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (.µ
+²
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs ((2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1AlbumViewerBusiness.AlbumViewerContext.Albums.get*3
+1
+context&AlbumViewerBusiness.AlbumViewerContext»
+¸
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (.
+
+%1bool"CSystem.Linq.Queryable.Any<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*4
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>¾
+»
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (.
+hasDatabool"__id*
+
+
+%1bool*
+2
+3*ø
+2“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (.ÕÒ
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs ( A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*3
+1
+context&AlbumViewerBusiness.AlbumViewerContext2Database.getÈÅ
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (0
+
+%3bool"KMicrosoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.EnsureCreated()*C
+A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade2EnsureCreated()µ
+²
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs ((2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>"1AlbumViewerBusiness.AlbumViewerContext.Albums.get*3
+1
+context&AlbumViewerBusiness.AlbumViewerContext»
+¸
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (.
+
+%5bool"CSystem.Linq.Queryable.Any<TSource>(System.Linq.IQueryable<TSource>)*"
+System.Linq.Queryable*4
+2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>¾
+»
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (.
+hasDatabool"__id*
+
+
+%5bool*
+3*¡
+3“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs (*
+4
+5*‡	
+4“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs! "(8ý
+ú
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs! !(J
+%6string""System.IO.File.ReadAllText(string)*"
+System.IO.File*
+
+jsonDataFilePathstring¿
+¼
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs! !(J
+jsonstring"__id*
+
+%6stringˆ
+…
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs" "(4	
+%7int"jAlbumViewerBusiness.AlbumViewerDataImporter.ImportFromJson(AlbumViewerBusiness.AlbumViewerContext, string)*/"-
++AlbumViewerBusiness.AlbumViewerDataImporter*3
+1
+context&AlbumViewerBusiness.AlbumViewerContext*
+
+jsonstring"ž
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs" "(9
+""*º
+5“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs& &("ž
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs& &(
+""*Ç
+6“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs'	 '(	"«
+“
+ˆD:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Models\Context\AlbumViewerDataImporter.cs' '(	
+implicit return:1
+context&AlbumViewerBusiness.AlbumViewerContext:
+jsonDataFilePathstringB/"-
++AlbumViewerBusiness.AlbumViewerDataImporter

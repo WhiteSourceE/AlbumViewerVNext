@@ -1,0 +1,23 @@
+
+iWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.EntityFrameworkRepository(TContext)Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs (("1*ª
+1Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs	 (	*
+0*—
+0Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs (ê
+ç
+Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs (
+%0TContext"QWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>.Context.set*IG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>*
+
+contextTContext*
+2*ß
+2Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs	 (	"·
+Ÿ
+”D:\Projects\DefensePoint\whitesource-testcases-csharp\AlbumViewerVNext\src\AlbumViewerBusiness\Westwind.BusinessObjects\EntityFrameworkRepository.cs (	
+implicit return:
+contextTContextBIG
+EWestwind.BusinessObjects.EntityFrameworkRepository<TContext, TEntity>

@@ -1,0 +1,19 @@
+¶	
+&AlbumViewerBusiness.AlbumViewerContext'Microsoft.EntityFrameworkCore.DbContextobject¯
+BAlbumViewerContext(Microsoft.EntityFrameworkCore.DbContextOptions)iAlbumViewerBusiness.AlbumViewerContext.AlbumViewerContext(Microsoft.EntityFrameworkCore.DbContextOptions)S
+AlbumViewerContext();AlbumViewerBusiness.AlbumViewerContext.AlbumViewerContext()¡
+;OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)bAlbumViewerBusiness.AlbumViewerContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)S
+ConnectionString.get;AlbumViewerBusiness.AlbumViewerContext.ConnectionString.getS
+ConnectionString.set;AlbumViewerBusiness.AlbumViewerContext.ConnectionString.set?
+
+Albums.get1AlbumViewerBusiness.AlbumViewerContext.Albums.get?
+
+Albums.set1AlbumViewerBusiness.AlbumViewerContext.Albums.setA
+Artists.get2AlbumViewerBusiness.AlbumViewerContext.Artists.getA
+Artists.set2AlbumViewerBusiness.AlbumViewerContext.Artists.set?
+
+Tracks.get1AlbumViewerBusiness.AlbumViewerContext.Tracks.get?
+
+Tracks.set1AlbumViewerBusiness.AlbumViewerContext.Tracks.set=
+	Users.get0AlbumViewerBusiness.AlbumViewerContext.Users.get=
+	Users.set0AlbumViewerBusiness.AlbumViewerContext.Users.set
